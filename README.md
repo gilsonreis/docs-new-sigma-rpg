@@ -22,6 +22,22 @@ O **NewSigmaRPG** foi projetado para ser um sistema leve e adaptável, perfeito 
 
 ---
 
+### 🤔 O que significa SIGMA?
+
+SIGMA é a sigla para **Sistema Interpretativo e Genérico para Múltiplas Ambientações**. Este nome reflete os pilares centrais do sistema:
+
+- **Interpretativo**:
+
+  - Focado no papel do jogador como protagonista da narrativa.
+  - Valorizando a criatividade e a interação entre os participantes.
+
+- **Genérico**:
+
+  - Adaptável a qualquer tipo de cenário, seja ele medieval, futurista, pós-apocalíptico ou qualquer outro.
+
+- **Múltiplas Ambientações**:
+  - Flexível o suficiente para atender às necessidades de mestres e jogadores, independentemente do universo ou gênero escolhido.
+
 ## 🚀 Como Rodar a Documentação
 
 Esta documentação é construída usando **MkDocs**. Para rodar localmente e visualizar o manual completo:
