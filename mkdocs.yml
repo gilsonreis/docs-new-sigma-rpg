@@ -1,0 +1,92 @@
+site_name: NewSigmaRPG
+theme:
+    name: material
+    language: pt-BR
+    features:
+        - navigation.footer
+        - navigation.top
+nav:
+  - Introdução: index.md
+  - História de Introdução: historia-introducao.md
+  - Glossário: glossario.md
+  - Objetivo do manual: objetivo.md
+  - Ambientação: ambientacao.md
+  - "Regras Básicas":
+    - "Atributos e Perícias":
+      - Atributos: regras-basicas/atributos-e-pericias/atributos.md
+      - Perícias: regras-basicas/atributos-e-pericias/pericias.md
+    - "Mecânicas de Jogo":
+      - Teste de Ação: regras-basicas/mecanicas-de-jogo/testes-de-acao.md
+      - Teste de Resiliência: regras-basicas/mecanicas-de-jogo/testes-de-resiliencia.md
+      - Teste de Disputas: regras-basicas/mecanicas-de-jogo/testes-de-disputas.md
+      - Vantagens e Desvantagens: regras-basicas/mecanicas-de-jogo/vantagens-desvantagens.md
+    - "Recursos do Personagem":
+      - Dinheiro: regras-basicas/recursos-do-personagem/dinheiro.md
+      - Mortes: regras-basicas/recursos-do-personagem/mortes.md
+      - Descansos: regras-basicas/recursos-do-personagem/descansos.md
+      - Pilotagem: regras-basicas/recursos-do-personagem/pilotagem.md
+      - Armas, itens e Habilidades: regras-basicas/recursos-do-personagem/armas-itens-habilidades.md
+      - Arquétipos: regras-basicas/recursos-do-personagem/arquetipos.md
+  - "Regras de Combate":
+    - "Conceitos Fundamentais":
+        - Introdução ao Combate: combate/introducao-ao-combate.md
+        - Iniciativa e Turnos: combate/iniciativa-e-turnos.md
+        - Tipos de Ações: combate/tipos-de-acoes.md
+    - "Mecânicas de Ataque e Defesa":
+        - Regras de Ataque: combate/regras-de-ataque.md
+        - Regras de Defesa: combate/regras-de-defesa.md
+        - Vantagens e Desvantagens no Combate: combate/vantagens-desvantagens-combate.md
+    - "Dano e Efeitos":
+        - Dano e Modificadores: combate/dano-e-modificadores.md
+        - Condições Especiais: combate/condicoes-especiais.md
+    - "Combate Avançado":
+        - Combate em Grupo: combate/combate-em-grupo.md
+        - Situações Complexas: combate/situacoes-complexas.md
+  - "Guia do Mestre":
+    - Introdução ao Papel do Mestre: guia-do-mestre/papel-do-mestre.md
+    - "Criação e Preparação":
+        - Criando e Utilizando Ambientações: guia-do-mestre/ambientacoes.md
+        - Preparação da Aventura: guia-do-mestre/preparacao-aventura.md
+    - "Gestão do Jogo":
+        - Gerenciamento de Jogadores: guia-do-mestre/gerenciamento-jogadores.md
+        - Flexibilidade do Sistema: guia-do-mestre/flexibilidade-sistema.md
+        - Subindo de Nível: guia-do-mestre/subindo-de-nivel.md
+    - "Ferramentas e Técnicas":
+        - Uso do Dado e Modificadores: guia-do-mestre/uso-dado-modificadores.md
+        - Construção de Narrativa: guia-do-mestre/construcao-narrativa.md
+    - "Gestão de Combate":
+        - Gestão de Combate: guia-do-mestre/gestao-combate.md
+        - Resolução de Conflitos e Improvisação: guia-do-mestre/resolucao-conflitos.md
+    - "Inspirações e Exemplos":
+        - Ferramentas de Criação: guia-do-mestre/ferramentas-criacao.md
+        - Exemplos Práticos: guia-do-mestre/exemplos-praticos.md
+  - "Manual do Jogador":
+    - Introdução: manual-jogador/introducao.md
+    - Criando seu Personagem:
+        - Introdução: manual-jogador/criando-personagem/introducao.md
+        - Definição de Atributos: manual-jogador/criando-personagem/definicao-atributos.md
+        - Escolha de Perícias: manual-jogador/criando-personagem/escolha-pericias.md
+    - Arquétipos:
+        - O que são arquétipos: manual-jogador/arquetipos/o-que-sao-arquetipos.md
+        - Combatente: manual-jogador/arquetipos/combatente.md
+        - Especialista: manual-jogador/arquetipos/especialista.md
+        - Explorador: manual-jogador/arquetipos/explorador.md
+        - Astuto: manual-jogador/arquetipos/astuto.md
+        - Místico: manual-jogador/arquetipos/mistico.md
+        - Artista: manual-jogador/arquetipos/artista.md
+    - Regras Básicas:
+        - Resumo: manual-jogador/regras-basicas/resumo.md
+        - Subindo de Nível: manual-jogador/regras-basicas/subindo-de-nivel.md
+    - Pontos de Vida e Estamina: manual-jogador/pontos-vida-estamina.md
+    - Criando a Ficha do Seu Personagem:
+        - Introdução: manual-jogador/criando-ficha/introducao.md
+        - Nome e Identidade: manual-jogador/criando-ficha/nome-identidade.md
+        - Atributos: manual-jogador/criando-ficha/atributos.md
+        - Perícias: manual-jogador/criando-ficha/pericias.md
+        - Pontos de Vida, Estamina e Dinheiro: manual-jogador/criando-ficha/pontos-de-vida-estamina-dinheiro.md
+        - Itens e Equipamentos: manual-jogador/criando-ficha/itens-equipamentos.md
+        - Resumo do Background: manual-jogador/criando-ficha/background.md
+        - Preenchendo a Ficha: manual-jogador/criando-ficha/preenchendo-ficha.md
+        - Exemplo de Ficha: manual-jogador/criando-ficha/exemplo-ficha.md
+        - Baixe sua Ficha: manual-jogador/criando-ficha/baixe-sua-ficha.md
+  - Agradecimentos: agradecimentos.md
