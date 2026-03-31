@@ -21,6 +21,11 @@ No **NewSigmaRPG**, os atributos dos personagens são determinados usando um sis
         - **Menor que 8**: Suba para **8**.
         - **Maior que 12**: Reduza para **12**.
 
+4. **Atributo Especial (Sorte)**:
+    - Após preencher os cinco atributos principais e fazer as substituições desejadas, role **1x 2D8** separadamente.
+    - Anote esse valor na seção de **Sorte**. 
+    - **Importante**: Não use suas substituições de atributos principais para a Sorte. O resultado final dos dados é definitivo (respeitando os limites de correção automática de 8 a 12).
+
 ---
 
 ### **Exemplo de Criação**
@@ -43,6 +48,10 @@ No **NewSigmaRPG**, os atributos dos personagens são determinados usando um sis
     - **Constituição**: 12
     - **Inteligência**: 11
     - **Carisma**: 9
+
+#### **Etapa 3: Sorte**
+- O jogador então rola **1x 2D8** separadamente e obtém **10**.
+- Esse valor é anotado diretamente na **Sorte**, sem possibilidade de substituição.
 
 ---
 

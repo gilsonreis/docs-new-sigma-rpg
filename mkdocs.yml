@@ -14,6 +14,8 @@ nav:
   - "Regras Básicas":
     - "Atributos e Perícias":
       - Atributos: regras-basicas/atributos-e-pericias/atributos.md
+      - "Atributos Especiais":
+          - Sorte: regras-basicas/atributos-e-pericias/sorte.md
       - Perícias: regras-basicas/atributos-e-pericias/pericias.md
     - "Mecânicas de Jogo":
       - Teste de Ação: regras-basicas/mecanicas-de-jogo/testes-de-acao.md

@@ -79,3 +79,9 @@ Refere-se à capacidade de influenciar outras pessoas, seja através de persuas�
     - Em um cenário pós-apocalíptico, pode ser usado para negociar recursos com outros grupos.
     - Em um mundo medieval, pode ajudar a reunir tropas para um cerco.
 
+---
+
+## **Atributo Especial**
+
+Além dos cinco atributos principais, o **NewSigmaRPG** possui um sexto atributo único focado na narrativa e na improvisação: a **Sorte**. Leia mais sobre como utilizá-la como uma mecânica de "Gato de Schrödinger" na página de [Sorte (Atributo Especial)](sorte.md).
+

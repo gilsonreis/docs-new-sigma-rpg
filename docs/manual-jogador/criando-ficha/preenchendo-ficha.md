@@ -14,7 +14,7 @@ Abaixo está a ficha de personagem do **NewSigmaRPG**, numerada para facilitar o
   - **Sexo**: Gênero do personagem (opcional).
   - **Idade**: Idade do personagem.
   - **Arquetipo**: Escolha o arquétipo do personagem. [Saiba mais sobre arquétipos](../arquetipos/o-que-sao-arquetipos.md).
-  - **Especialização**: Defina a especialidade do personagem com base na ambientação. [Leia sobre especialidades](../criando-personagem/introducao.md#especialidades).
+  - **Especialização**: Defina a especialidade do personagem com base na ambientação. [Leia sobre especialidades](../criando-personagem/introducao.md#escolhendo-uma-especialidade).
   - **Ambientação**: Insira a ambientação específica da campanha, como medieval, cyberpunk ou pós-apocalíptico. [Saiba mais sobre ambientação](../../ambientacao.md)
   - **Campanha**: Nome da campanha na qual o personagem está inserido.
   - **Nível e EXP**: Insira o nível atual do personagem e a experiência acumulada.
@@ -29,6 +29,7 @@ Abaixo está a ficha de personagem do **NewSigmaRPG**, numerada para facilitar o
   - **Inteligência (INT)**: Refere-se à capacidade de raciocínio, aprendizado e conhecimento.
   - **Constituição (CON)**: Indica resistência física e capacidade de suportar danos.
   - **Carisma (CAR)**: Reflete habilidades sociais, charme e persuasão.
+  - **Sorte (SOR)**: Atributo especial testado quando há incertezas benéficas ("Gato de Schrödinger").
 
 [Saiba mais sobre Atributos](../criando-personagem/definicao-atributos.md).
 

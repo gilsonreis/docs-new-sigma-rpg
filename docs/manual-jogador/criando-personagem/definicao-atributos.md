@@ -47,6 +47,11 @@ Os atributos são a base de qualquer personagem no **NewSigmaRPG**. Eles represe
 3. **Valores Limite**:
     - Os atributos têm um valor mínimo de **8** e máximo de **12**.
 
+4. **Atributo Especial: Sorte**:
+    - Após definir os cinco atributos principais, o jogador rola **1x 2D8** separadamente para definir o valor de **Sorte**.
+    - Diferente dos atributos principais, a **Sorte não possui rolagens de substituição**. O valor obtido será o valor definitivo (com mínimo de 8 e máximo de 12 aplicados normalmente).
+    - Entenda mais sobre como a Sorte funciona na narrativa em [Sorte (Atributo Especial)](../../regras-basicas/atributos-e-pericias/sorte.md).
+
 ---
 
 ### **Importante Sobre os Atributos**
