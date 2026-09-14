@@ -86,8 +86,8 @@ Perícias são especializações relacionadas aos atributos. Enquanto os atribut
 ---
 
 ### **9. Escalada**
-- **Descrição**: A habilidade de subir em superfícies íngremes ou difíceis com segurança.
-- **Atributo Relativo**: **Destreza**, **Força**, **Constituição**
+- **Descrição**: A habilidade de subir em superfícies íngremes, muros ou terrenos difíceis com segurança e controle corporal.
+- **Atributo Relativo**: **Destreza**, **Constituição**
 
 ---
 
@@ -184,6 +184,56 @@ Perícias são especializações relacionadas aos atributos. Enquanto os atribut
 ### **25. Sobrevivência**
 - **Descrição**: Competência em encontrar recursos, navegar por terrenos difíceis e se manter vivo em ambientes hostis.
 - **Atributo Relativo**: **Inteligência**
+
+---
+
+## **Perícias com Atributos Múltiplos: A Abordagem Define o Teste**
+
+No **NewSigmaRPG**, várias perícias possuem mais de um atributo associado na ficha. Nesses casos, o teste **não possui um atributo fixo obrigatório**: o Mestre e o jogador determinam qual atributo testar com base em **COMO o personagem descreve sua ação**.
+
+Essa flexibilidade permite que os jogadores aproveitem os melhores atributos de seus personagens através de abordagens criativas e coerentes com a cena:
+
+### 1. **Arrombamento** (`Destreza` ou `Força`)
+- **Com Destreza (DES) — Abordagem Técnica e Silenciosa**: Usar gazuas (*lockpicks*), grampos de cabelo, chaves-mestras ou desmontar o tambor da fechadura delicadamente. O objetivo é abrir a tranca sem estragar o mecanismo e sem produzir barulho.
+    - *Exemplo*: Um especialista agachado nas sombras gira os pinos de um cofre com duas agulhas de metal.
+- **Com Força (FOR) — Abordagem Bruta e Destrutiva**: Enfiar um pé de cabra no batente, desferir um chute violento no ponto da tranca, forçar uma grade de ferro ou esmagar o cadeado com uma marreta. Abre a passagem rapidamente, mas destrói a porta e faz muito barulho.
+    - *Exemplo*: O combatente toma impulso e arromba a porta de madeira com o ombro.
+
+### 2. **Escalada** (`Destreza` ou `Constituição`)
+- **Com Destreza (DES) — Agilidade, Equilíbrio e Coordenação**: Transpor muros urbanos, subir fachadas com pequenas saliências, pular entre parapeitos ou galhos finos de árvores. A precisão corporal, velocidade e colocação das mãos e pés evitam a queda.
+    - *Exemplo*: Um infiltrador escala rapidamente o muro de uma mansão aproveitando frisos e calhas.
+- **Com Constituição (CON) — Sustentação Muscular, Fôlego e Resistência**: Escaladas exaustivas e de longa duração (como um paredão de montanha) ou manter-se pendurado por muito tempo sob chuva, vento congelante ou ar rarefeito. O desafio é a capacidade dos pulmões e músculos de suportar o esforço prolongado sem desfalecer de fadiga.
+    - *Exemplo*: O explorador sobe uma encosta íngreme durante horas sob tempestade de neve.
+
+### 3. **Intimidação** (`Carisma` ou `Força`)
+- **Com Carisma (CAR) — Coerção Psicológica e Presença**: Ameaçar com palavras frias, postura autoritária, chantagem velada, encarada penetrante ou reputação aterrorizante. O alvo cede pelo peso psicológico e pela presença imponente.
+    - *Exemplo*: Um chefe mafioso sussurra calmamente detalhes sobre a rotina da família do informante, dizendo: *"Você sabe o que acontece com quem mente para mim"*.
+- **Com Força (FOR) — Coerção Física Direta**: Pressionar o alvo contra a parede, agarrar pelo colarinho erguendo-o do chão, quebrar uma garrafa no balcão ou prensar uma lâmina na garganta.
+    - *Exemplo*: O brutamontes bate o bandido contra a parede de metal, rachando o concreto e exigindo as senhas.
+
+### 4. **Negociação** (`Carisma` ou `Inteligência`)
+- **Com Carisma (CAR) — Empatia, Charme e Relacionamento**: Conquistar a simpatia do mercador, criar um clima agradável, fazer piadas ou elogiar o vendedor, conseguindo um desconto por empatia e camaradagem.
+    - *Exemplo*: *"Meu caro amigo, você e eu sabemos que um comerciante do seu calibre não deixaria esse chapéu encalhar na prateleira por míseras 5 moedas..."*
+- **Com Inteligência (INT) — Lógica Comercial e Análise de Mercado**: Argumentar com base na cotação real, apontar avarias técnicas no item, calcular margens de lucro ou propor trocas vantajosas fundamentadas em números e fatos.
+    - *Exemplo*: *"Essa lâmina possui microfissuras na têmpera e a safra de ferro baixou o preço do aço em 20% no porto vizinho. Seu preço está fora da realidade comercial."*
+
+### 5. **Persuasão** (`Carisma` ou `Inteligência`)
+- **Com Carisma (CAR) — Eloquência e Conexão Emocional**: Discursos inflamados, apelo à honra, amizade, compaixão ou valores morais. Convencer as pessoas pelo coração e pela confiança mútua.
+    - *Exemplo*: Convencer um soldado desesperado a não desertar, lembrando-o de quem ele jurou proteger.
+- **Com Inteligência (INT) — Retórica Racional e Provas**: Apresentar evidências concretas, dados documentados, teses lógicas ou argumentos jurídicos. Convencer conselheiros ou juízes através de raciocínio irrefutável.
+    - *Exemplo*: Convencer um conselho de que a rota norte é uma emboscada, apresentando os mapas de movimentação e o consumo de suprimentos inimigo.
+
+### 6. **Percepção** (`Inteligência` ou `Destreza`)
+- **Com Inteligência (INT) — Investigação Analítica e Padrões**: Notar detalhes fora de lugar, marcas de arranhões no piso indicando portas secretas, livros fora de ordem ou a ausência de ruídos normais da fauna local.
+    - *Exemplo*: Notar que um livro na estante não acumulou a mesma poeira dos demais, deduzindo que serve de alavanca.
+- **Com Destreza (DES) — Reflexos Sensoriais e Visão Periférica**: Reagir imediatamente a um perigo repentino: notar o reflexo de uma mira telescópica uma fração de segundo antes do disparo ou acompanhar um vulto rápido no teto escuro.
+    - *Exemplo*: Perceber o deslocamento de ar de uma adaga arremessada pelas suas costas a tempo de desviar.
+
+### 7. **Ocultismo** (`Inteligência` ou `Carisma`)
+- **Com Inteligência (INT) — Conhecimento Acadêmico e Pesquisa**: Lembrar lendas antigas, traduzir runas arcanas, catalogar demônios e identificar a fraqueza mística de uma relíquia através de estudo prévio.
+    - *Exemplo*: Identificar que um símbolo esculpido no altar pertence a uma entidade banida há três séculos.
+- **Com Carisma (CAR) — Canalização e Imposição Espiritual**: Comungar com espíritos, realizar orações de exorcismo, negociar pactos ou impor a autoridade de sua presença e fé para forçar uma entidade a recuar.
+    - *Exemplo*: Olhar nos olhos de uma aparição sobrenatural, erguer um símbolo sagrado e ordenar com voz tonitruante: *"Retorne para a terra de onde veio, você não tem poder neste plano!"*
 
 ---
 

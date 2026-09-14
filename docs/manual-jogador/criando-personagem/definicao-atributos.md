@@ -8,8 +8,8 @@ Os atributos são a base de qualquer personagem no **NewSigmaRPG**. Eles represe
 
 1. **Força**:
     - Representa a capacidade física bruta do personagem.
-    - Usada em ataques corpo a corpo, levantamento de peso e testes de resistência física.
-    - **Exemplo**: Derrubar uma porta, escalar um penhasco ou empurrar um objeto pesado.
+    - Usada em ataques corpo a corpo, levantamento de peso e testes de força bruta.
+    - **Exemplo**: Derrubar uma porta trancada, erguer escombros ou arremessar um objeto pesado.
 
 2. **Destreza**:
     - Reflete a agilidade, precisão e reflexos do personagem.
@@ -17,9 +17,9 @@ Os atributos são a base de qualquer personagem no **NewSigmaRPG**. Eles represe
     - **Exemplo**: Atirar com arco, esquivar de um golpe ou atravessar um corredor cheio de lasers.
 
 3. **Constituição**:
-    - Mede a resistência física e a capacidade de suportar danos ou condições adversas.
-    - Usada para resistir a venenos, doenças e fadiga.
-    - **Exemplo**: Sobreviver a um deserto escaldante ou resistir ao impacto de uma explosão.
+    - Mede a resistência física e a capacidade de suportar danos, fadiga ou condições adversas.
+    - Usada para resistir a venenos, doenças, fadiga e esforço físico contínuo.
+    - **Exemplo**: Sobreviver a um deserto escaldante, sustentar um longo esforço físico ou resistir ao impacto de uma explosão.
 
 4. **Inteligência**:
     - Representa a capacidade de raciocínio lógico, aprendizado e conhecimento técnico.

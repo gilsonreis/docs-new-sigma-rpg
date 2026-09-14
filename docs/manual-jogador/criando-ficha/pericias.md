@@ -44,7 +44,9 @@ Perícias são especializações que refletem o conhecimento, treinamento ou exp
 
 ## **Lista de Perícias e Atributos Relacionados**
 
-Aqui estão as perícias iniciais disponíveis no **NewSigmaRPG** e os atributos associados a cada uma:
+Aqui estão as perícias iniciais disponíveis no **NewSigmaRPG** e os atributos associados a cada uma.
+
+> **Dica de Interpretação**: Perícias com múltiplos atributos associados (como *Arrombamento*, *Escalada* ou *Intimidação*) permitem que a **sua abordagem narrativa** defina qual atributo será testado. Saiba mais em [Perícias com Atributos Múltiplos](../../regras-basicas/atributos-e-pericias/pericias.md#pericias-com-atributos-multiplos-a-abordagem-define-o-teste).
 
 | **Perícia**            | **Atributo Associado**             | **Link para Detalhes**                                                                 |
 | ---------------------- | ---------------------------------- | -------------------------------------------------------------------------------------- |
@@ -56,7 +58,7 @@ Aqui estão as perícias iniciais disponíveis no **NewSigmaRPG** e os atributos
 | **Criação**            | Inteligência (INT)                 | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#6-criacao)            |
 | **Decifrar**           | Inteligência (INT)                 | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#7-decifrar)           |
 | **Disfarce**           | Carisma (CAR)                      | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#8-disfarce)           |
-| **Escalada**           | Destreza (DES), Força (FOR), Constituição (CON) | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#9-escalada)           |
+| **Escalada**           | Destreza (DES), Constituição (CON) | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#9-escalada)           |
 | **Estratégia**         | Inteligência (INT)                 | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#10-estrategia)        |
 | **Furtividade**        | Destreza (DES)                     | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#11-furtividade)       |
 | **Intimidação**        | Carisma (CAR), Força (FOR)         | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#12-intimidacao)       |
