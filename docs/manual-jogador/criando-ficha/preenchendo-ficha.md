@@ -36,7 +36,7 @@ Abaixo está a ficha de personagem do **NewSigmaRPG**, numerada para facilitar o
 
 ## **3. Perícias Padrão**
 
-- **Descrição**: Lista com as 24 perícias oficiais do sistema. Cada perícia possui caixas duplas de preenchimento para marcar **"+"** (habilidade positiva / expansão de intervalo) ou **"-"** (habilidade negativa / contração de intervalo):
+- **Descrição**: Lista com as 25 perícias oficiais do sistema. Cada perícia possui caixas duplas de preenchimento para marcar **"+"** (habilidade positiva / expansão de intervalo) ou **"-"** (habilidade negativa / contração de intervalo):
   - Definidas a partir do **Pacote Vocacional** do arquétipo (+2 na perícia primária, +1 na secundária, -1 na falha vocacional) somadas aos **3 pontos livres** de criação.
   - O modificador final de cada perícia varia de **-2 a +2**, onde cada ponto expande ou contrai o intervalo do teste em ±1.
   - Cada perícia é associada aos atributos mais relevantes na hora da rolagem.
@@ -48,8 +48,8 @@ Abaixo está a ficha de personagem do **NewSigmaRPG**, numerada para facilitar o
 ## **4. Pontos de Vida (PV), Estamina (EST), Sorte (SOR) e Dinheiro (DIN)**
 
 - **Descrição**: Registro dos medidores de sobrevivência, esforço, incerteza e recursos materiais:
-  - **Pontos de Vida (PV)**: Calculados inicialmente como `CON × 2` (ou conforme regras de arquétipo). Indicam o dano que o corpo suporta antes de cair em estado de Agonia (0 PV).
-  - **Estamina (EST)**: Calculada inicialmente como `CON + INT` (ou conforme arquétipo). É a reserva de energia utilizada para manobras de combate, esquivas, bloqueios e habilidades especiais.
+  - **Pontos de Vida (PV)**: Calculados inicialmente a partir da base e rolagem do seu arquétipo (ex.: Combatente `15 + 2D8`, Especialista `10 + 1D8`). Indicam o dano que o corpo suporta antes de cair em estado de Agonia (0 PV).
+  - **Estamina (EST)**: Calculada inicialmente a partir da base e rolagem do seu arquétipo (ex.: Combatente `5 + 1D8`, Especialista `8 + 2D8`). É a reserva de energia utilizada para manobras de combate, esquivas, bloqueios e habilidades especiais.
   - **Sorte (SOR)**: Atributo narrativo de incerteza favorável ("Gato de Schrödinger"). Seu valor padrão é **8** (podendo ser ajustado pelo Mestre). Quando testado, rola-se 2D8 buscando obter um resultado dentro do intervalo simétrico `[Sorte - 2, Sorte + 2]` (ou seja, de 6 a 10 para Sorte 8). [Saiba mais sobre a Sorte](../../regras-basicas/atributos-e-pericias/sorte.md).
   - **Dinheiro (DIN)**: Recursos financeiros disponíveis para compras e serviços, cuja moeda é determinada pela ambientação (ouro, créditos, tampinhas, etc.).
 

@@ -87,7 +87,7 @@ O ambiente pode ser usado para enriquecer o combate, adicionando complexidade e 
 ### **Exemplo de Gestão de Combate**
 - **Cenário**: Os jogadores enfrentam um grupo de mercenários em uma ponte sobre um rio.
 - **Inimigos**:
-    - 4 Mercenários: Constituição 8, ataque básico com espadas (Dano: 1D8).
+    - 4 Mercenários: Força 8, Constituição 8, ataque básico com espadas (Dano: 1D8).
 - **Condições**:
     - Qualquer personagem que for derrubado da ponte deve passar em um teste de Destreza para se agarrar à borda.
 - **Ambiente**:

@@ -70,8 +70,9 @@ Aqui estão as perícias iniciais disponíveis no **NewSigmaRPG** e os atributos
 | **Percepção**          | Inteligência (INT), Destreza (DES) | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#20-percepcao)         |
 | **Persuasão**          | Carisma (CAR), Inteligência (INT)  | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#21-persuasao)         |
 | **Pilotagem**          | Destreza (DES)                     | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#22-pilotagem)         |
-| **Resistência**        | Constituição (CON), Força (FOR)    | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#23-resistencia)       |
-| **Sobrevivência**      | Inteligência (INT)                 | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#24-sobrevivencia)     |
+| **Resiliência**        | Constituição (CON)                 | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#23-resiliencia)       |
+| **Resistência**        | Força (FOR)                        | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#24-resistencia)       |
+| **Sobrevivência**      | Inteligência (INT)                 | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#25-sobrevivencia)     |
 
 ---
 

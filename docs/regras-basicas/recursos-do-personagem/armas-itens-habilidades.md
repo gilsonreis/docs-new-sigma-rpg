@@ -16,9 +16,9 @@ O **NewSigmaRPG** não possui uma lista fixa de armas, habilidades ou itens. Em 
 Para facilitar a criação, armas e habilidades podem ser classificadas em categorias genéricas:
 
 ### **Armas**
-- **Leves**: Dano básico (1D8), bônus de +1 no ataque.
+- **Leves**: Dano básico (1D8), bônus de +1 no intervalo de ataque.
     - **Exemplo**: Adaga, pistola leve.
-- **Pesadas**: Dano elevado (2D8), penalidade de -1 no ataque.
+- **Pesadas**: Dano elevado (2D8), penalidade de -1 no intervalo de ataque.
     - **Exemplo**: Espadão, rifle pesado.
 
 ### **Habilidades**
@@ -34,7 +34,7 @@ Para facilitar a criação, armas e habilidades podem ser classificadas em categ
 ## **Criação de Elementos**
 - **Impacto Simples**:
     - Armas e habilidades devem ter efeitos diretos no combate ou narrativa.
-        - **Exemplo**: Rifle de Plasma: **+2 no ataque**, exige recarga após dois turnos.
+        - **Exemplo**: Rifle de Plasma: **+2 no intervalo de ataque**, exige recarga após dois turnos.
 - **Narrativa Primeiro**:
     - A função e descrição devem refletir a ambientação antes de se traduzirem em números.
 

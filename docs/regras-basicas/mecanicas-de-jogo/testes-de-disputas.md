@@ -13,11 +13,13 @@ Os **Testes de Disputa** no **NewSigmaRPG** são usados para resolver competiç�
         - **Força**: Para quedas de braço, levantamento de pesos, etc..
         - **Carisma**: Para debates persuasivos, negociação de preços, etc..
 
-2. **Rolagem de Dados**:
-    - Cada participante rola **2D8** e verifica o quão próximo o resultado está do atributo relevante.
+2. **Rolagem de Dados e Aplicação de Perícias**:
+    - Cada participante rola **2D8** e calcula a diferença em relação ao valor do seu atributo relevante.
+    - **Impacto da Perícia**: Se o participante possuir bônus na perícia aplicável (+1 ou +2), esse valor **subtrai diretamente da sua diferença**, aproximando seu resultado do atributo. Penalidades na perícia (-1 ou -2) aumentam essa diferença.
+        - *Exemplo*: Um arqueiro com Destreza 10 rola 7 (diferença de 3). Com a perícia *Mira +1*, sua diferença final se reduz para 2 (3 - 1 = 2).
 
 3. **Determine o Vencedor**:
-    - O vencedor é o participante cujo resultado está mais próximo do valor do atributo.
+    - O vencedor é o participante que apresentar a menor diferença final em relação ao seu atributo.
 
 ---
 

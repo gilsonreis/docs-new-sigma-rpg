@@ -57,7 +57,7 @@ Perícias são especializações que conferem bônus ou penalidades ao intervalo
     - Inteligência: 8 (base 6 a 10)
     - Destreza: 12 (base 10 a 14)
     - Força: 10 (base 8 a 12)
-    - Constituição: 7 (base 6 a 10)
+    - Constituição: 8 (base 6 a 10)
 - **1. Pacote do Arquétipo Astuto**:
     - **Disfarce**: +2 (principal)
     - **Persuasão**: +1 (apoio)

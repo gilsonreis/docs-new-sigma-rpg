@@ -36,8 +36,8 @@ Os testes de ação são usados para determinar se um personagem consegue realiz
     - Role **4D8** e escolha os dois valores cuja soma esteja mais distante do atributo relevante.
 
 3. **Exemplo**:
-    - **Vantagem**: Riley ataca com seu rifle. Rolagem: \(7, 6, 5, 3\). Escolhe \(6 + 7 = 13\).
-    - **Desvantagem**: Jack tenta resistir ao veneno. Rolagem: \(8, 6, 2, 1\). Escolhe \(1 + 2 = 3\).
+    - **Vantagem**: Riley (Destreza 10) ataca com seu rifle. Rolagem: \( [7, 6, 4, 1] \). Como possui vantagem, escolhe os dois dados cuja soma mais se aproxima de 10: \(6 + 4 = 10\) (Sucesso Crítico!).
+    - **Desvantagem**: Jack (Constituição 8) tenta resistir ao veneno. Rolagem: \( [8, 6, 2, 1] \). A desvantagem o força a escolher a soma mais distante de 8: \(1 + 2 = 3\) (Falha Crítica!).
 
 ---
 

@@ -44,24 +44,34 @@ Itens podem ser armas, equipamentos, poções ou artefatos únicos que ajudam a 
 ---
 
 ### **3. Criando Inimigos**
-Inimigos são peças centrais dos desafios no jogo. Desde bandidos até criaturas lendárias, eles precisam ser variados e desafiadores.
+Inimigos são peças centrais dos desafios no jogo. Desde bandidos comuns até criaturas colossais, eles precisam ser variados e desafiadores.
+
+> **Atenção**: No **NewSigmaRPG**, um atributo numericamente maior não significa que o inimigo é mais forte, já que os testes dependem da proximidade do intervalo (um inimigo com Força 12 ou Força 8 opera dentro da mesma mecânica de 2D8). O que define o verdadeiro **Nível de Ameaça** de um inimigo é:
+> 1. A sua quantidade de **Pontos de Vida (PV)** e defesas como **Redução de Dano (RD)**.
+> 2. O **Dano dos seus Ataques** e a letalidade de suas armas ou habilidades.
+> 3. Suas **Perícias treinadas** (que ampliam seu intervalo de acerto de ataque para além do base).
 
 #### **Passos para Criar um Inimigo**
-1. **Defina o Nível de Ameaça**:
-    - É um inimigo comum, intermediário ou um chefe?
-        - **Exemplo**: Guardas têm **Constituição 8**; um Dragão tem **Constituição 14**.
+1. **Defina o Nível de Ameaça (PV, Defesa e Dano)**:
+    - **Inimigo Comum / Capanga**: Pouco PV (8 a 15 PV), dano moderado, sem armaduras pesadas. São derrotados rapidamente.
+        - *Exemplo*: Guardas têm **12 PV**, usam espadas de **Dano 1D8** e não possuem armadura com RD.
+    - **Inimigo Intermediário**: PV moderado (20 a 35 PV), armaduras leves (RD 1 a 2) e armas perigosas.
+        - *Exemplo*: Um Líder Mercenário tem **25 PV**, colete com **RD 2** e fuzil de **Dano 2D8**.
+    - **Chefe / Criatura Lendária**: Grande quantidade de PV (50 a 80+ PV), alta Redução de Dano e ataques devastadores ou em área.
+        - *Exemplo*: Um Dragão tem **70 PV**, escamas com **RD 4**, mordida de **Dano 2D8 + 4** e sopro de fogo que atinge múltiplos alvos.
 
-2. **Escolha Atributos e Habilidades**:
-    - Concentre-se nos atributos relevantes para o combate.
-        - **Exemplo**: Um ladrão ágil pode ter **Destreza 12** e **Furtividade +2**.
+2. **Escolha Atributos e Perícias Relevantes**:
+    - Atribua valores entre 8 e 12 aos atributos que o inimigo usará para agir.
+    - Se o inimigo for altamente treinado em combate, adicione **perícias (+1 ou +2)** para expandir o seu intervalo de acerto.
+        - *Exemplo*: Um ladrão ágil pode ter **Destreza 10**, mas ter **Mira +2** (intervalo de ataque estendido de 6 a 14) e **Furtividade +2**.
 
 3. **Adicione uma Habilidade Especial**:
-    - Chefes ou inimigos importantes devem ter habilidades únicas.
-        - **Exemplo**: Um necromante pode invocar esqueletos durante o combate.
+    - Chefes ou inimigos importantes devem ter habilidades que alterem a dinâmica da cena.
+        - *Exemplo*: Um necromante pode invocar esqueletos durante o combate ou criar névoas de cegueira.
 
 4. **Inclua Motivações**:
     - Mesmo inimigos podem ter motivos para suas ações.
-        - **Exemplo**: Um chefe de gangue luta para proteger seu território.
+        - *Exemplo*: Um chefe de gangue luta para proteger seu território e seus aliados, recuando caso sofra dano massivo.
 
 ---
 

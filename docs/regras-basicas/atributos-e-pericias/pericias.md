@@ -169,13 +169,19 @@ Perícias são especializações relacionadas aos atributos. Enquanto os atribut
 
 ---
 
-### **23. Resistência**
-- **Descrição**: A habilidade de suportar condições adversas, como ambientes extremos, jornadas longas ou impactos físicos e mentais.
-- **Atributo Relativo**: **Constituição**, **Força**
+### **23. Resiliência**
+- **Descrição**: A capacidade de suportar e se recuperar de adversidades biológicas, toxinas, venenos, doenças, fadiga extrema, climas severos e abalos psicológicos, mentais ou pressões externas não físicas.
+- **Atributo Relativo**: **Constituição**
 
 ---
 
-### **24. Sobrevivência**
+### **24. Resistência**
+- **Descrição**: A capacidade de suportar impactos físicos diretos, contenções musculares, esmagamentos, pancadas e exigências extremas de força corporal bruta.
+- **Atributo Relativo**: **Força**
+
+---
+
+### **25. Sobrevivência**
 - **Descrição**: Competência em encontrar recursos, navegar por terrenos difíceis e se manter vivo em ambientes hostis.
 - **Atributo Relativo**: **Inteligência**
 
