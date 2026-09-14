@@ -24,7 +24,7 @@ Também é possível mesclar os dois, utilizando XP em alguns momentos e, em eve
 | 7         | 1.700             | 500                |
 | 8         | 2.300             | 600                |
 | 9         | 3.000             | 700                |
-| 10        | 3.000             | -                  |
+| 10        | 3.800             | 800                |
 
 #### **Sugestão de Distribuição de XP**
 - **Desafios Simples**: de 15 a 50 XP.

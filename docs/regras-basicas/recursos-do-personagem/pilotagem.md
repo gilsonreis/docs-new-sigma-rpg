@@ -16,8 +16,8 @@ Os testes de pilotagem são aplicados sempre que um personagem precisa demonstra
 
 ### **Como Funciona**
 1. **Teste de Ação**:
-    - O jogador realiza um **teste de Destreza**, somando a perícia de pilotagem, se possuir.
-    - O intervalo de sucesso base é definido pelo atributo de Destreza, modificado pela perícia e por circunstâncias.
+    - O jogador realiza um **teste de Destreza**, cujo intervalo de sucesso base é expandido pela perícia de Pilotagem, caso possua.
+    - O intervalo pode ser modificado adicionalmente pelas condições do ambiente e do veículo.
 
 2. **Modificadores**:
     - O mestre pode aplicar modificadores baseados nas condições do ambiente ou do veículo:
@@ -34,17 +34,17 @@ Os testes de pilotagem são aplicados sempre que um personagem precisa demonstra
 ---
 
 ### **Exemplo de Pilotagem**
-#### **Cenário: Far West**
+#### **Cenário: Far West (Velho Oeste)**
 **Descrição**: Jack Hammer, um caçador de recompensas, está perseguindo um bandido a cavalo.
 
 - **Jack Hammer**:
-    - **Destreza**: 9
+    - **Destreza**: 9 (Intervalo base de 7 a 11)
     - **Perícia de Pilotagem (Montaria)**: +1
-    - Intervalo de sucesso: **7 a 13**
+    - Intervalo com perícia: **6 a 12**
 
 - **Teste**: O mestre descreve que o terreno é acidentado (-1 no intervalo de sucesso).
-    - Novo intervalo: **8 a 12**
-    - Jack rola 2D8: \( 6 + 7 = 13 \) (Falha)
+    - Novo intervalo: **7 a 11**
+    - Jack rola 2D8: \( 6 + 7 = 13 \) (Falha, pois 13 está fora do intervalo)
 
 **Mestre**: "Seu cavalo tropeça em uma pedra, e você perde o bandido de vista temporariamente."
 
@@ -52,15 +52,16 @@ Os testes de pilotagem são aplicados sempre que um personagem precisa demonstra
 **Descrição**: ZeroByte está fugindo em uma moto futurista enquanto drones o perseguem.
 
 - **ZeroByte**:
-    - **Destreza**: 11
+    - **Destreza**: 11 (Intervalo base de 9 a 13)
     - **Perícia de Pilotagem (Veículo)**: +2
-    - Intervalo de sucesso: **9 a 15**
+    - Intervalo com perícia: **7 a 15**
 
-- **Teste**: O mestre aplica +1 de bônus devido à moto ser de alta tecnologia.
-    - Novo intervalo: **8 a 16**
-    - ZeroByte rola 2D8: \( 7 + 8 = 15 \) (Sucesso)
+- **Teste**: O mestre concede **vantagem** no teste devido aos giroscópios e sistemas avançados da moto de alta tecnologia.
+    - ZeroByte rola 4D8 com vantagem: \( [2, 5, 6, 8] \)
+    - **Escolha dos dados**: Por estar em vantagem, escolhe os dois dados cuja soma mais se aproxima de sua Destreza (11), selecionando \( 5 + 6 = 11 \).
+    - **Resultado**: A soma cravou exatamente no atributo 11. **Sucesso Crítico!**
 
-**Mestre**: "Você ativa o turbo da moto e consegue escapar dos drones enquanto cruza a cidade a toda velocidade."
+**Mestre**: "Você ativa o turbo com precisão cirúrgica, manobrando com perfeição entre os becos neon e despistando completamente os drones enquanto cruza a cidade a toda velocidade."
 
 ---
 

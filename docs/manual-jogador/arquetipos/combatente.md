@@ -10,12 +10,12 @@ O **Combatente** é o especialista em combate do grupo, assumindo a linha de fre
 
 ---
 
-### **Perícias Relevantes**
-- **Artes Marciais**: Para combate desarmado ou com armas leves.
-- **Atletismo**: Para saltos, corridas e outros feitos físicos.
-- **Intimidação**: Para desestabilizar oponentes antes ou durante o combate.
-- **Mira**: Para uso de armas de fogo, arco e flecha, arremesso de facas, etc.
-- **Sobrevivência**: Para resistir em ambientes hostis.
+### **Perícias do Arquétipo**
+- **Pacote Vocacional Inicial**:
+    - **Artes Marciais (+2)**: Maestria nata no combate corpo a corpo e desarmado.
+    - **Atletismo (+1)**: Excelente capacidade motora, saltos e corridas.
+    - **Lábia (-1)**: Fraqueza temática; direto, rústico e avesso a intrigas e meias-verdades.
+- **Sugestões para os 3 Pontos Livres**: Intimidação, Mira, Resistência, Sobrevivência.
 
 ---
 
@@ -40,7 +40,9 @@ O **Combatente** pode se especializar em diferentes estilos de combate:
 - **Nome**: Tharok, o Escudo da Montanha
     - **Força**: 12
     - **Constituição**: 11
-    - **Perícias**: Artes Marciais +1, Atletismo +2, Intimidação +1
+    - **Perícias**:
+        - *Pacote do Arquétipo*: Artes Marciais +2, Atletismo +1, Lábia -1
+        - *Pontos Livres (3 pts)*: Intimidação +1, Resistência +1, Mira +1
     - **História**: Um antigo gladiador conhecido por sua força descomunal e habilidade de liderar aliados em batalhas brutais. Ele jurou proteger os mais fracos após escapar da escravidão.
 
 ---

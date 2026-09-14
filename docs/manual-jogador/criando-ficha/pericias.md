@@ -15,28 +15,30 @@ Perícias são especializações que refletem o conhecimento, treinamento ou exp
 
 ## **Como Escolher Perícias?**
 
-1. **Quantos Pontos de Perícia?**
+1. **Pacote Vocacional do Arquétipo**:
+    - Ao escolher o arquétipo do seu personagem (Combatente, Especialista, Explorador, Astuto, Místico ou Artista), você anota imediatamente na ficha o **pacote vocacional inicial** daquele papel:
+        - **Uma Perícia Principal com +2**: A marca registrada de maestria nata do arquétipo.
+        - **Uma Perícia de Apoio com +1**: Uma perícia secundária que reforça seu estilo de atuação.
+        - **Uma Fraqueza Temática com -1**: O ponto cego clássico do arquétipo, trazendo desafio e personalidade ao personagem.
 
-    - Cada personagem começa com **3 pontos de perícia** para distribuir conforme desejar.
-    - **Penalidades (perícia negativa)**: 
-        - Ao atribuir um valor negativo (até -2) a uma perícia, o personagem ganha pontos extras para distribuir em outras, totalizando 5 pontos de perícia, somando com os 3 pontos iniciais.
-        - A cada ponto negativo, o jogador recebe um ponto extra para distribuir, com limite de no máximo 2, ou seja, pode ser -2 em uma perícia ou -1 e -1 em duas perícias. Não é obrigatório negativar uma perícia. Use com sabedoria para melhorar as perícias mais importante para seu personagem.
+2. **Distribuição dos 3 Pontos Livres**:
+    - Além do pacote do arquétipo, cada jogador recebe **3 pontos de perícia livres** para distribuir como desejar.
+    - Você pode:
+        - Adicionar novas perícias com **+1**.
+        - Aumentar perícias já possuídas até o teto de **+2**.
+        - Ou gastar 1 ponto para neutralizar a fraqueza de **-1** do arquétipo (subindo-a para 0), caso deseje criar um personagem que fuja do estereótipo.
 
-2. **Limitações de Valores**:
+3. **Penalidades Voluntárias Extras**:
+    - O jogador pode voluntariamente negativar mais uma perícia (com limite de até -2 em penalidades totais na ficha). A cada ponto negativo voluntário adicional, ganha-se **+1 ponto extra** para distribuir.
 
+4. **Limitações de Valores**:
     - Cada perícia pode variar entre **-2 e +2**.
-    - Valores negativos representam dificuldades ou inaptidão em realizar aquela tarefa.
+    - Valores negativos representam dificuldades ou inaptidão em realizar aquela tarefa. Em -2, apenas um acerto crítico garante sucesso.
 
-3. **Quadros na Ficha**:
-
-    - Na ficha de personagem, ao lado de cada perícia, há dois quadros vazios:
+5. **Quadros na Ficha**:
+    - Na ficha de personagem, ao lado de cada perícia, há dois quadros para marcação:
         - **Preencha com "+"**: Indica que o personagem tem bônus naquela perícia (**+1 ou +2**).
         - **Preencha com "-"**: Indica que o personagem possui uma penalidade naquela perícia (**-1 ou -2**).
-    - **Ação do Jogador**: É responsabilidade do jogador preencher os quadros com "+" ou "-" durante a criação da ficha, de acordo com a distribuição de pontos.
-
-4. **Sugestões de Perícias por Arquétipo**:
-    - Consulte a página de [**Arquétipos**](../arquetipos/o-que-sao-arquetipos.md) para encontrar perícias relevantes para cada tipo de personagem.
-    - **Recomendação**: Adicione as perícias já oferecidas pelos arquétipos antes de escolher suas próprias perícias. Assim, você poderá distribuir os pontos de perícia de forma mais equilibrada.
 
 ---
 
@@ -54,7 +56,7 @@ Aqui estão as perícias iniciais disponíveis no **NewSigmaRPG** e os atributos
 | **Criação**            | Inteligência (INT)                 | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#6-criacao)            |
 | **Decifrar**           | Inteligência (INT)                 | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#7-decifrar)           |
 | **Disfarce**           | Carisma (CAR)                      | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#8-disfarce)           |
-| **Escalada**           | Destreza (DES), Constituição (CON) | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#9-escalada)           |
+| **Escalada**           | Destreza (DES), Força (FOR), Constituição (CON) | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#9-escalada)           |
 | **Estratégia**         | Inteligência (INT)                 | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#10-estrategia)        |
 | **Furtividade**        | Destreza (DES)                     | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#11-furtividade)       |
 | **Intimidação**        | Carisma (CAR), Força (FOR)         | [Detalhes](../../regras-basicas/atributos-e-pericias/pericias.md#12-intimidacao)       |
@@ -76,18 +78,22 @@ Aqui estão as perícias iniciais disponíveis no **NewSigmaRPG** e os atributos
 ## **Exemplo de Distribuição de Perícias**
 
 - **Personagem**: Arlen Tracker (Explorador)
-    - **Pontos Iniciais**: 3
-    - **Distribuição**:
+    - **1. Pacote do Arquétipo Explorador**:
+        - **Sobrevivência**: +2 (principal)
+        - **Escalada**: +1 (apoio)
+        - **Negociação**: -1 (fraqueza temática)
+    - **2. Distribuição dos 3 Pontos Livres**:
+        - **Atletismo**: +1 (1 ponto livre)
+        - **Camuflagem**: +1 (1 ponto livre)
+        - **Mira**: +1 (1 ponto livre)
 
-         - Sobrevivência: +2
-         - Atletismo: +1
-         - Pilotagem: -1 (ganha 1 ponto adicional).
-         - Camuflagem: +1 (ponto extra da penalidade).
-
-- **Resultado Final**:
-    - **Sobrevivência**: Intervalo de sucesso ampliado em +2.
-    - **Atletismo**: Intervalo de sucesso ampliado em +1.
-    - **Pilotagem**: Intervalo de sucesso reduzido em -1.
+- **Resultado Final na Ficha**:
+    - **Sobrevivência**: +2 (Intervalo ampliado em +2).
+    - **Escalada**: +1 (Intervalo ampliado em +1).
+    - **Atletismo**: +1 (Intervalo ampliado em +1).
+    - **Camuflagem**: +1 (Intervalo ampliado em +1).
+    - **Mira**: +1 (Intervalo ampliado em +1).
+    - **Negociação**: -1 (Intervalo reduzido em -1).
 
 ---
 

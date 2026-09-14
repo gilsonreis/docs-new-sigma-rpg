@@ -10,12 +10,12 @@ O **Astuto** é o mestre da manipulação, estratégia e persuasão. Usando char
 
 ---
 
-### **Perícias Relevantes**
-- **Camuflagem**: Pode usar de disfarces a maquiagem para se misturar na multidão para cumprir alguma missão.
-- **Lábia**: Para mentir e enganar com facilidade.
-- **Persuasão**: Para convencer NPCs ou aliados a seguirem seus planos.
-- **Disfarce**: Para se passar por outra pessoa.
-- **Intuição**: Para detectar mentiras ou intenções ocultas.
+### **Perícias do Arquétipo**
+- **Pacote Vocacional Inicial**:
+    - **Disfarce (+2)**: Mestria absoluta em encenar identidades e sumir na multidão.
+    - **Persuasão (+1)**: Carisma afiado para guiar decisões alheias.
+    - **Levantamento (-1)**: Fraqueza temática; compleição ágil e sutil, avessa ao esforço de carga bruta.
+- **Sugestões para os 3 Pontos Livres**: Lábia, Furtividade, Intuição, Arrombamento.
 
 ---
 
@@ -40,7 +40,9 @@ O **Astuto** pode se especializar em diferentes abordagens:
 - **Nome**: Elara, a Mestra dos Disfarces
     - **Carisma**: 12
     - **Inteligência**: 11
-    - **Perícias**: Disfarce +2, Persuasão +1, Intuição +1
+    - **Perícias**:
+        - *Pacote do Arquétipo*: Disfarce +2, Persuasão +1, Levantamento -1
+        - *Pontos Livres (3 pts)*: Lábia +2 (2 pts), Intuição +1 (1 pt)
     - **História**: Elara é uma espiã lendária conhecida por desaparecer sem deixar rastros. Com charme e inteligência, ela manipula aliados e inimigos para alcançar seus objetivos.
 
 ---

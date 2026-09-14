@@ -9,20 +9,20 @@ O **NewSigmaRPG** oferece uma ampla flexibilidade para mestres e jogadores explo
 
 #### **Detalhes do Cenário**:
 - **Ambiente**: A ponte está em mau estado, com tábuas soltas e correntes balançando ao vento.
-- **Inimigos**: 3 Bandidos (Constituição 8, Destreza 9, Espadas de Dano 1D8).
+- **Inimigos**: 3 Bandidos (Força 8, Destreza 9, Espadas de Dano 1D8).
 - **Condições Especiais**:
     - Jogadores ou NPCs que falharem em um teste de **Destreza 8** ao se movimentarem pela ponte escorregam e caem, sofrendo **1D8 ÷ 2** de dano.
 
 #### **O Combate**:
 1. **Riley avança com cautela**:
     - Faz um teste de Destreza \(7 + 3 = 10\), dentro do intervalo. Ela avança sem problemas.
-    - Ela ataca um dos bandidos com sua espada. Rolagem \(6 + 4 = 10\), dentro do intervalo do bandido, e causa \(1D8 + 1\) de dano.
+    - Ela ataca um dos bandidos com sua espada, testando sua própria **Força** (10, intervalo de 8 a 12). Com a rolagem \(6 + 4 = 10\), ela acerta dentro de seu intervalo de ataque e causa \(1D8 + 1\) de dano.
 
 2. **Jack Hammer tenta correr pela ponte**:
     - Falha no teste de Destreza \(3 + 2 = 5\). Ele escorrega e cai, sofrendo **2 de dano**.
 
 3. **Os bandidos se movem para bloquear Riley**:
-    - Um deles tenta atacá-la, mas rola \(5 + 2 = 7\), fora do intervalo. Ele erra.
+    - Um deles tenta atacá-la com sua espada, testando sua própria **Força** (8, intervalo de 6 a 10). Ele rola \(3 + 2 = 5\), fora do seu intervalo de sucesso. Ele erra o golpe.
 
 ---
 

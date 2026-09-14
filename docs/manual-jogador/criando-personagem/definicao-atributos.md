@@ -42,7 +42,7 @@ Os atributos são a base de qualquer personagem no **NewSigmaRPG**. Eles represe
 
 2. **Ajustes Adicionais**:
     - Após a rolagem inicial, o jogador pode realizar mais três rolagens de **2D8** para substituir valores que desejar.
-    - **Dica**: Troque valores muito altos ou muito baixos para valores mais próximos da média, como valores entre 7 e 9, pois os números médios têm maior probabilidade de sucesso nos testes.
+    - **Dica**: Troque valores muito altos ou baixos para valores próximos à média central, como valores entre **8 e 10**, pois os números centrais têm maior probabilidade estatística de sucesso nos testes.
 
 3. **Valores Limite**:
     - Os atributos têm um valor mínimo de **8** e máximo de **12**.
@@ -59,9 +59,9 @@ Os atributos são a base de qualquer personagem no **NewSigmaRPG**. Eles represe
     - A lógica do **NewSigmaRPG** baseia-se na proximidade entre os resultados dos dados e o valor do atributo.
     - Valores extremos (muito altos ou baixos) podem dificultar o sucesso em testes.
 
-- **Valores Médios São Mais Confiáveis**:
-    - A probabilidade dos resultados de **2D8** está concentrada em valores médios, como 7 a 9.
-    - Ter atributos equilibrados aumenta a chance de sucesso em uma variedade de situações.
+- **Valores Centrais São Mais Consistentes**:
+    - A probabilidade dos resultados de **2D8** está concentrada ao redor de **9** (especialmente entre 8 e 10).
+    - Ter atributos equilibrados nessa faixa garante maior regularidade nos testes, enquanto valores no teto (como 12) exigem o suporte de perícias treinadas para expandir a margem de acerto.
 
 ---
 
@@ -95,7 +95,7 @@ Os atributos são a base de qualquer personagem no **NewSigmaRPG**. Eles represe
     - Relacione os pontos fortes e fracos do personagem ao seu passado e motivações, enriquecendo a narrativa.
 
 4. **Dica Bônus**:
-    - Substitua valores extremos durante os ajustes adicionais, buscando valores médios. Eles aumentam a chance de sucesso, já que os dados têm maior probabilidade de atingir resultados entre 7 e 9.
+    - Substitua valores extremos durante os ajustes adicionais, buscando valores centrais (como 8, 9 ou 10). Eles aumentam a consistência de sucesso, já que os dados têm maior probabilidade estatística de alcançar resultados próximos a 9.
 
 ---
 

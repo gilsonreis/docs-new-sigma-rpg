@@ -36,12 +36,12 @@ Os jogadores podem querer personalizar seus personagens além das opções padr�
 O mestre pode ajustar a dificuldade dos desafios com base na experiência do grupo e no andamento da narrativa:
 
 1. **Tornando Mais Fácil**:
-    - Expanda o intervalo de sucesso do inimigo: \( Atributo + 1 ou + 2 \) .
-    - Ofereça vantagens situacionais aos jogadores.
+    - Expanda o intervalo de sucesso dos personagens: bônus de (+1 ou +2) no intervalo.
+    - Ofereça vantagens situacionais aos jogadores (ex.: terreno favorável, cobertura).
 
 2. **Tornando Mais Difícil**:
-    - Reduza o intervalo de sucesso: \( Atributo - 1 ou -2 \).
-    - Faça o inimigo rolar com vantagem.
+    - Reduza o intervalo de sucesso dos personagens: penalidade de (-1 ou -2) no intervalo.
+    - Conceda vantagens aos ataques ou ações dos inimigos.
 
 ---
 

@@ -32,21 +32,21 @@ No **NewSigmaRPG**, os atributos dos personagens são determinados usando um sis
 
 #### **Etapa 1: Rolagem Inicial**
 - O jogador rola **5x 2D8** e obtém os resultados: **10, 7, 15, 6, 9**.
-- Esses valores são atribuídos na ordem:
+- Esses valores são atribuídos na ordem, aplicando os limites de 8 a 12:
     - **Força**: 10
-    - **Destreza**: 7
-    - **Constituição**: 12 (rolou **15**, mas como o máximo é **12**, deve descer para **12**)
-    - **Inteligência**: 8 (rolou **6**, mas como o mínimo é **8**, deve subir para **8**)
+    - **Destreza**: 8 (rolou **7**, mas como o mínimo é **8**, sobe automaticamente para **8**)
+    - **Constituição**: 12 (rolou **15**, mas como o máximo é **12**, desce para **12**)
+    - **Inteligência**: 8 (rolou **6**, mas como o mínimo é **8**, sobe para **8**)
     - **Carisma**: 9
 
 #### **Etapa 2: Substituições**
-- O jogador decide substituir o valor **8 (Inteligência)** para tentar melhorar.
-- Ele rola um **2D8** adicional e obtém **11**, substituindo o **8**.
+- O jogador decide substituir o valor **12 (Constituição)** para tentar melhorar.
+- Ele rola um **2D8** adicional e obtém **9**, substituindo o **12**.
 - A nova distribuição é:
     - **Força**: 10
-    - **Destreza**: 7
-    - **Constituição**: 12
-    - **Inteligência**: 11
+    - **Destreza**: 8
+    - **Constituição**: 9
+    - **Inteligência**: 8
     - **Carisma**: 9
 
 #### **Etapa 3: Sorte**
@@ -67,5 +67,5 @@ No **NewSigmaRPG**, os atributos dos personagens são determinados usando um sis
     - Ambientações podem valorizar diferentes atributos. Certifique-se de alinhá-los ao cenário e ao papel do personagem no grupo.
 
 4. **Probabilidades**:
-    - Números médios tem mais change de sucesso. Se deixar seus atributos entre 9 e 11, terá mais change de sucesso.
-    - Números muito altos e muito baixos tem mais change de falha.
+    - A distribuição do 2D8 é triangular e tem média central em **9**. Atributos próximos a essa média (como **8, 9 ou 10**) oferecem maior chance estatística de sucesso regular.
+    - Atributos no teto (como **12**) representam especializações mais extremas e exigem o apoio de perícias treinadas para expandir sua margem de acerto.

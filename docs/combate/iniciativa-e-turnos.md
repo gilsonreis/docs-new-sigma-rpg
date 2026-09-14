@@ -57,12 +57,12 @@ Cada personagem tem um turno para realizar suas ações durante a batalha. Um tu
         - Ativar uma habilidade especial.
 
 3. **Resolução da Ação**:
-    - No caso de ataques, a rolagem de **2D8** deve ser comparada ao **intervalo de sucesso** do atributo relevante do **inimigo**. Normalmente, é o atributo **Constituição** para ataques físicos, mas o mestre pode ajustar conforme o contexto.
+    - No caso de ataques, a rolagem de **2D8** deve ser comparada ao **intervalo de sucesso** do atributo relevante do **próprio atacante** (como **Força** para golpes corpo a corpo ou **Destreza** para ataques à distância), expandido por perícias aplicáveis. Se a rolagem estiver dentro do intervalo, o ataque acerta o alvo.
 
 #### **Exemplo de Turno**
 - **Situação**: Riley está enfrentando um Android.
     - **Movimento**: Riley avança em direção ao Android para entrar em alcance corpo a corpo.
-    - **Ação**: Riley tenta atacar com uma espada. O mestre informa que o atributo **Constituição** do Android é 9, com um intervalo de sucesso de **7 a 11**. Riley rola \(5 + 3 = 8\), dentro do intervalo de sucesso. O ataque acerta.
+    - **Ação**: Riley tenta atacar com sua espada. O ataque depende da sua própria **Força** (10), com intervalo base de sucesso de **8 a 12**. Riley rola \(5 + 3 = 8\), dentro do seu intervalo de sucesso. O ataque acerta o Android.
 
 ---
 

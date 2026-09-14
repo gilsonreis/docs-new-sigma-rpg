@@ -10,12 +10,12 @@ O **Especialista** é o arquétipo voltado para habilidades técnicas, intelectu
 
 ---
 
-### **Perícias Relevantes**
-- **Conhecimento Geral**: Para aplicar conceitos técnicos ou científicos.
-- **Criação**: Para projetar, consertar ou modificar itens.
-- **Decifrar**: Para entender códigos, pistas ou enigmas.
-- **Medicina**: Para tratar ferimentos, estabilizar aliados caídos e diagnosticar condições físicas ou químicas.
-- **Sobrevivência**: Para se adaptar a ambientes hostis ou encontrar soluções práticas.
+### **Perícias do Arquétipo**
+- **Pacote Vocacional Inicial**:
+    - **Decifrar (+2)**: Raciocínio analítico afiado para códigos, padrões e enigmas *(ou **Hackear +2** em cenários futuristas/cyberpunk)*.
+    - **Criação (+1)**: Engenhosidade para projetar, consertar e aprimorar equipamentos.
+    - **Atletismo (-1)**: Fraqueza temática; mente hiperativa em um corpo pouco afeito a esforço atlético.
+- **Sugestões para os 3 Pontos Livres**: Conhecimento Geral, Medicina, Intuição, Estratégia.
 
 ---
 
@@ -40,7 +40,9 @@ O **Especialista** pode se destacar em diferentes campos de atuação:
 - **Nome**: ZeroByte, o Hacker Visionário
     - **Inteligência**: 12
     - **Destreza**: 10
-    - **Perícias**: Hackear +2, Decifrar +1, Criação +1
+    - **Perícias**:
+        - *Pacote do Arquétipo*: Hackear +2 (customizada), Criação +1, Atletismo -1
+        - *Pontos Livres (3 pts)*: Decifrar +1, Furtividade +1, Pilotagem +1
     - **História**: Um gênio da tecnologia que trabalha como freelancer para desmantelar sistemas opressores. Ele é conhecido por sua habilidade de invadir redes impossíveis e escapar ileso.
 
 ---

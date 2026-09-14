@@ -1,64 +1,49 @@
-## **Regras de Defesa**
+## **Regras de Defesa e Cobertura**
 
-No **NewSigmaRPG**, a defesa de um personagem ou inimigo é determinada pelo atributo relevante para resistir ao ataque, como **Constituição**, **Destreza**, ou outros atributos situacionais. A defesa não é um valor fixo, mas sim um intervalo que representa a capacidade do alvo de evitar ou resistir ao ataque.
+Diferente de sistemas de RPG mais tradicionais baseados em "Classe de Armadura" (CA) ou valores absolutos de esquiva contínua, o **NewSigmaRPG** coloca o peso do acerto inteiramente na habilidade ativa do atacante. O combate aqui destrói a lentidão da mesa: se o inimigo (ou você) atacar e conseguir bater sua meta do próprio atributo, o golpe conectou. Ponto final.
 
----
-
-### **Como Funciona a Defesa**
-1. **Defesa Baseada em Atributos**:
-    - A defesa é representada por um intervalo de sucesso baseado no atributo relevante:
-        - **Constituição**: Usada para resistir a ataques físicos, como socos, cortes ou disparos.
-        - **Destreza**: Usada para evitar ataques que exigem esquiva, como projéteis ou golpes rápidos.
-        - **Outro Atributo**: O mestre pode determinar atributos diferentes em casos específicos (ex.: Força para bloquear ou Inteligência para resistir a ataques mentais).
-
-2. **Intervalo de Defesa**:
-    - O intervalo de defesa é calculado como \( Atributo &pm;2 \).
-        - Exemplo: Um inimigo com **Constituição 9** tem um intervalo de defesa de **7 a 11**.
-
-3. **Comparação com o Ataque**:
-    - A rolagem de ataque do adversário é comparada ao intervalo de defesa:
-        - **Dentro do Intervalo**: O ataque **acerta**.
-        - **Fora do Intervalo**: O ataque **erra**.
+Não há um valor de "Defesa Passiva" fixo o tempo todo. 
 
 ---
 
-### **Modificadores de Defesa**
-1. **Equipamentos Defensivos**:
-    - Itens como armaduras ou escudos podem ajustar o intervalo de defesa:
-        - **Exemplo**: Uma armadura leve **+1** aumenta o intervalo para **8 a 12**.
+### **Como Sobreviver aos Ataques?**
 
-2. **Condições do Terreno**:
-    - Terrenos favoráveis, como cobertura ou altura, podem ampliar o intervalo de defesa:
-        - **Exemplo**: Um personagem atrás de uma barreira ganha **+1** no intervalo de defesa.
+Se você não tem CA e nem rola dados toda vez para simplesmente "esquivar" de uma paulada tradicional, como evitar tomar dano grave e manter seu personagem de pé?
 
-3. **Situações Narrativas**:
-    - Desvantagens como estar caído ou cercado podem reduzir o intervalo de defesa:
-        - **Exemplo**: Estar cercado reduz o intervalo de defesa em **-1**.
+#### 1. **Uso Tático de Coberturas (Reduzindo o Ataque Inimigo)**
+   Sua melhor defesa primária é o cenário. Posicionamento e escolhas táticas impõem desvantagens diretas e massivas ao oponente.
+   
+   - **Exemplo Defensivo**: Se você está se esquivando ativamente ou abaixado atrás de um carro-forte, e o capanga tenta atirar em você, o Mestre aplica **Desvantagem** e um modificador negativo (como `-1` ou `-2`) ao intervalo de acerto *do inimigo*. Fica muito mais difícil dele acertar o tiro.
+   - Sua defesa real é tática. Ficar no meio do salão vazio atirando vai fazer qualquer fuzil inimigo te crivar de balas.
+
+#### 2. **Absorção de Dano (Armaduras)**
+   Neste sistema as armaduras **não dificultam a mira** do inimigo. Uma bala continuará atingindo seu peito quer você vista uma camiseta ou uma malha de aço balística pesado. A armadura entra em ação logo após o contato:
+   
+   - Equipamentos defensivos como coletes ou mantos fornecem um atributo nativo chamado 
+   **Redução de Dano (RD)**.
+   - **Exemplo**: Você tem uma armadura leve com **RD 3**. O monstro te morde com sucesso causando 8 de dano físico total. Em vez de drenar 8 Pontos de Vida, a mordida tem a magnitude do dano reduzida pela armadura em 3 pontos. Você perde apenas 5 Pontos de Vida (PV).
+
+#### 3. **Testes de Resiliência (Salvaguardas Especiais)**
+   Usados estritamente contra as "anomalias" do combate ou armadilhas que tomam forma abrangente. Para fugir destas complicações sistêmicas, sua reação será testar seu corpo!
+   
+   - Uma bola de fogo espalhada na sala, uma nuvem ácida envenenando os pulmões, uma adaga mística corrompendo o sangue. 
+   
+   - A resposta de Defesa nessas horas é um **Teste de Resiliência** em cima da **Constituição** ou **Inteligência**. Um sucesso nesse teste de resiliência costuma reduzir danos contínuos pela metade ou evitar estar envenenado na próxima rodada.
 
 ---
 
-### **Exemplo de Defesa**
-- **Situação**: Riley ataca um Android com um golpe de espada.
-    - **Defesa do Android**: Constituição 9, com intervalo de defesa **7 a 11**.
-    - **Rolagem de Riley**: \(5 + 5 = 10\).
-    - **Resultado**: O ataque está dentro do intervalo de defesa. O golpe **acerta**.
+### **Ações de Prontidão Defensivas**
 
----
+Se estiver realmente cercado num combate sujo corpo-a-corpo, você tem direito de renunciar ao seu Ataque do próprio turno para se assumir uma postura puramente defensiva:
 
-### **Ajustes Baseados no Contexto**
-1. **Esquivas e Movimentos Rápidos**:
-    - Use **Destreza** como atributo defensivo para ataques que exigem velocidade e agilidade.
-2. **Resistência Física**:
-    - Use **Constituição** para ataques que exigem resistência pura.
-3. **Defesa Narrativa**:
-    - Permita que o contexto defina qual atributo é mais relevante para a defesa.
+1. **Defesa Ativa Total**:
+   - Se o jogador usar a Ação Principal do turno dele apenas para levantar o escudo e esperar contra-golpes, qualquer inimigo que decida atacá-lo naquele round sofrerá **Desvantagem Pura**. 
+   - Isso é excelente se a Força Bruta for necessária para recuar sem o grupo ser desintegrado.
 
 ---
 
 ### **Dicas para Mestres**
-1. **Escolha o Atributo Certo**:
-    - Avalie a natureza do ataque e a narrativa antes de determinar o atributo de defesa.
-2. **Explique os Modificadores**:
-    - Ajude os jogadores a entender como equipamentos, terreno ou condições impactam a defesa.
-3. **Incentive a Criatividade**:
-    - Permita que os jogadores usem o ambiente ou estratégias criativas para melhorar suas defesas.
+1. **O Cenário dita as Regras de Vida**:
+    - Ensine seus jogadores pelo medo (ou amor) que buscar barricadas é tão importante quanto sacar as armas. Aplique agressividade brutal de Redutores e Desvantagens nos inimigos que batem do outro lado do balcão escondido para criar essa imersidade em todos na mesa a utilizar as mecânicas.
+2. **Narração como Defesa**:
+    - Um jogador te disse "eu corro costurando entre as colunas pra lá e pra cá escapando do fogo das metralhadoras!". Isso não gera uma rolagem de Defesa no garoto. Isso significa "Aplica Desvantagem pro atirador e rola". Simples, elegante e perigoso!

@@ -42,7 +42,7 @@ No **NewSigmaRPG**, o dano causado em combate depende da arma, habilidade ou sit
 
 ### **Dano Crítico**
 1. **Definição**:
-    - Um acerto crítico ocorre quando o resultado do ataque coincide exatamente com o valor do atributo relevante do inimigo.
+    - Um acerto crítico ocorre quando o resultado do ataque coincide exatamente com o valor do atributo utilizado no ataque pelo personagem.
 
 2. **Impacto no Dano**:
     - O dano crítico é geralmente **dobrado** ou pode ter um efeito especial.
@@ -52,20 +52,19 @@ No **NewSigmaRPG**, o dano causado em combate depende da arma, habilidade ou sit
 
 ### **Exemplo de Cálculo de Dano**
 - **Situação**: Riley ataca um Android com um Sabre de Luz.
-    - **Ataque**: Riley rola \(6 + 4 = 10\), que está dentro do intervalo de defesa do Android (7 a 11).
+    - **Ataque**: O ataque corpo a corpo usa a **Força** de Riley (9). Como seu intervalo é de 7 a 11, ela rola \(6 + 4 = 10\), que está dentro do intervalo. O golpe acerta.
     - **Dano**: O Sabre de Luz causa \(1D8 + 2\). Riley rola o dado de dano e obtém \(7\).
         - Total de dano: \(7 + 2 = 9\).
-    - **Resultado**: O Android sofre **9 pontos de dano**.
+    - **Resultado**: O Android perde **9 pontos de vida**.
 - **Situação**: HawkEyes, usando seu rifle de precisão, mira cuidadosamente na cabeça de um sequestrador que mantém uma refém sob ameaça.
-    - **Ataque**: O mestre informa que o atributo **Constituição** do sequestrador é 8 (Intervalo de 6 a 10), porém pela distância tem -2 de desvantagem, caindo o intervalo de sucesso apenas para o acerto crítico. Mas isso não é um problema para HawkEyes.
-    - HawkEyes rola \(4 + 4 = 8\), exatamente igual ao valor de Constituição do sequestrador. Este é um **acerto crítico**.
+    - **Ataque**: Um rifle usa **Destreza**. A Destreza de HawkEyes é 10 (Intervalo base 8 a 12). Porém, pela distância extrema, o mestre impõe uma dura penalidade de -2 no intervalo, que cai para 10 a 10 (apenas o sucesso crítico funciona). Mas isso não é um problema para um Atirador de Elite.
+    - HawkEyes rola \(4 + 6 = 10\), exatamente igual ao valor do seu atributo de Destreza modificado. Este é um **acerto crítico**.
     - **Dano Base**: O rifle de precisão causa \(2D8 + 3\).
         - HawkEyes rola os dados de dano e obtém \(7 + 6 = 13\).
         - Total do dano base: \(13 + 3 = 16\).
     - **Dano Crítico**: O dano é **dobrado** no caso de crítico.
         - Total do dano crítico: \(16 &times; 2 = 32\).
-    - **Resultado**: HawkEyes pressiona o gatilho com precisão cirúrgica e acerta o sequestrador bem entre os olhos. O impacto é mortal. O sequestrador cai ao chão, soltando a refém, que corre para um local seguro. A sala fica em silêncio, com apenas o som do rifle de HawkEyes ecoando.
----
+    - **Resultado**: HawkEyes acerta o sequestrador bem entre os olhos sob condições terríveis. O impacto é mortal e a sala fica em silêncio.
 
 ### **Dicas para Mestres**
 1. **Use o Dano Narrativamente**:

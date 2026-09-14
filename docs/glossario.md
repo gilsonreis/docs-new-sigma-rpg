@@ -77,26 +77,27 @@ Um teste usado para resistir a efeitos adversos ou superar desafios que exigem u
 ---
 
 ## **Combate**
-Confrontos físicos ou estratégicos entre jogadores e NPCs. As regras de combate incluem testes de ataque, cálculo de dano e defesa.
+Confrontos físicos ou estratégicos entre jogadores e NPCs. As regras de combate incluem testes de ataque centrados no protagonista contra seus próprios limites.
 
-**Exemplo**: Um personagem ataca um inimigo com uma espada, verificando se a rolagem se encaixa no intervalo de acerto do atributo do alvo.
+**Exemplo**: Um personagem ataca um inimigo com uma espada, verificando se a rolagem se encaixa no seu próprio intervalo base de Força.
 
 ---
 
 ## **Intervalo de Acerto**
-No **NewSigmaRPG**, o intervalo de acerto é determinado pelo atributo relevante do alvo, ajustado conforme a situação, ao invés de ser um número fixo definido pelo mestre. O jogador compara o resultado de sua rolagem com o intervalo de sucesso definido pelo atributo do inimigo.
+No **NewSigmaRPG**, o intervalo de acerto é determinado pelas capacidades do próprio jogador, definido pelo seu atributo base e expandido por suas perícias, ao invés de ser um número fixo passivo estipulado por "defesa" dos monstros.
 
 - **Exemplo**:
-    - O inimigo tem **Constituição 9**, com um intervalo base de **7 a 11**.
-    - O jogador rola **2D8** e obtém \(8 + 3 = 11\).
-    - Como o valor está dentro do intervalo de sucesso do inimigo, o ataque acerta.
+    - O jogador empunha uma arma e sua **Destreza é 11**, com um intervalo base de **9 a 13**.
+    - Ele tem +1 na perícia **Mira**. Novo intervalo: **8 a 14**.
+    - O jogador rola **2D8** e obtém \(8 + 6 = 14\).
+    - Como o valor está dentro de sua precisão esperada (seu próprio intervalo de sucesso que foi expandido pela perícia **Mira**), o ataque acerta o adversário!
 
 ---
 
 ## **2D8**
 Os dois dados de 8 faces usados como base para resolver ações no NewSigmaRPG. O resultado da soma é comparado ao atributo e intervalo do personagem para determinar sucesso ou falha.
 
-**Exemplo**: Um personagem com destreza 10 e +1 em armas de fogo ataca um alvo. O intervalo de sucesso é 8-14, e o jogador rola 2D8, obtendo 12: sucesso.
+**Exemplo**: Um personagem com destreza 10 e +1 na perícia Mira ataca um alvo. Seu intervalo de sucesso expandido é de **7 a 13**, e o jogador rola 2D8, obtendo 12: sucesso garantido.
 
 ---
 

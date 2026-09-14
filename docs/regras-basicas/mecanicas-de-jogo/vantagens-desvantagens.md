@@ -13,42 +13,46 @@ Quando um jogador está em uma situação favorável, ele pode rolar **4D8** e e
     2. Escolha os dois dados que resultem na soma mais vantajosa para o intervalo do atributo.
     3. Caso consiga igualar exatamente o valor do atributo, isso resulta em um **sucesso crítico**.
 
-- **Exemplo 1 - desvantagem com falha**:
+- **Exemplo 1 - Vantagem com Sucesso Crítico**:
     - **Cenário**: Elyon está em um terreno elevado, atirando com vantagem contra um inimigo.
-    - **Atributo**: Destreza 10.
-    - **Rolagens**: \( [2, 3, 1, 4] \).
-    - **Soma desvantagens**: \(2 + 1 = 3\), resultando em uma falha crítica.
+    - **Atributo**: Destreza 10 (Intervalo base de 8 a 12).
+    - **Rolagens**: \( [7, 6, 4, 1] \).
+    - **Escolha**: Como Elyon tem vantagem, ele escolhe os dois dados cuja soma mais se aproxima do seu atributo: \(6 + 4 = 10\).
+    - **Resultado**: Como o resultado coincide exatamente com seu atributo de Destreza, Elyon obtém um **sucesso crítico**!
 
-- **Exemplo 2 - desvantagem com sucesso**
-    - **Cenário**: Ravik tenta desarmar uma armadilha em uma sala mal iluminada. Devido à falta de luz, ele está em desvantagem.
-
-    - **Atributo**: Inteligência 11.
-    - **Rolagens**: \( [3, 6, 7, 8] \).
-    - **Mais distantes do atributo**: \(3\) e \(6\).
-    - **Soma (desvantagem)**: \(3 + 6 = 9\).
-
-    **Resultado**:
-    - Ravik ainda consegue passar no teste, pois o resultado \(9\) está dentro do intervalo de sucesso (de \(9\) a \(13\)).
-
-    **Mestre**: "Você desarma a armadilha cuidadosamente, mas sente que qualquer erro teria sido fatal."
+- **Exemplo 2 - Vantagem com Sucesso Normal**:
+    - **Cenário**: Riley ataca um guarda pelas costas, pegando-o de surpresa (vantagem).
+    - **Atributo**: Destreza 11 (Intervalo base de 9 a 13).
+    - **Rolagens**: \( [8, 5, 2, 1] \).
+    - **Escolha**: Riley seleciona a combinação mais vantajosa para alcançar seu intervalo: \(8 + 5 = 13\) ou \(8 + 2 = 10\). O jogador deve escolher **\(8 + 2 = 10\)**.
+    - **Resultado**: Ambos os valores, 10 e 13, estão dentro do intervalo de sucesso (9 a 13). No entanto, 10 é mais próximo do valor do seu atributo Destreza, resultando em um acerto certeiro!
 
 ---
 
 ### **Desvantagem**
 
-Quando um jogador está em uma situação desfavorável, ele rola **4D8** e usa **os dois valores mais distantes do atributo**.
+Quando um jogador está em uma situação desfavorável, ele rola **4D8** e usa **os dois valores cuja soma esteja mais distante do atributo**.
 
 - **Como Funciona**:
     1. Role **4D8**.
-    2. Determine a diferença de cada resultado em relação ao atributo.
-    3. Use os dois valores mais distantes para a soma final.
-    4. Isso torna mais difícil alcançar o intervalo de sucesso, mas não elimina a possibilidade.
+    2. Determine a diferença de cada soma possível em relação ao atributo.
+    3. Use a soma mais distante do atributo para o resultado final.
+    4. Isso torna mais difícil alcançar o intervalo de sucesso, mas não elimina a possibilidade de êxito.
 
-- **Exemplo**:
-    - **Cenário**: Kael está em um terreno escorregadio, tentando acertar um inimigo.
-    - **Atributo**: Força 8.
-    - **Rolagens**: \( [2, 6, 1, 8] \).
-    - **Mais distantes do atributo**: \(1\) e \(2\), resultando em uma soma de \(3\), uma falha crítica.
+- **Exemplo 1 - Desvantagem com Falha Crítica**:
+    - **Cenário**: Kael está em um terreno escorregadio, tentando desferir um golpe corpo a corpo.
+    - **Atributo**: Força 8 (Intervalo base de 6 a 10).
+    - **Rolagens**: \( [8, 6, 2, 1] \).
+    - **Mais distantes do atributo**: A desvantagem obriga a escolha dos dados mais desfavoráveis: \(2 + 1 = 3\).
+    - **Resultado**: Como a soma é igual ou menor que 3, ocorre uma **falha crítica**. Kael escorrega e fica vulnerável.
+
+- **Exemplo 2 - Desvantagem superada com Sucesso**:
+    - **Cenário**: Ravik tenta desarmar uma armadilha em uma sala mal iluminada (desvantagem).
+    - **Atributo**: Inteligência 11 (Intervalo base de 9 a 13).
+    - **Rolagens**: \( [4, 5, 6, 7] \).
+    - **Mais distantes do atributo**: Embora existam somas como \(4 + 7 = 11\) ou \(5 + 6 = 11\), a desvantagem obriga o jogador a escolher a soma mais distante do atributo 11. As opções mais distantes são \(4 + 5 = 9\) ou \(6 + 7 = 13\) (ambas a 2 pontos de distância).
+    - **Resultado**: Mesmo forçado a ficar com o pior resultado possível (\(9\) ou \(13\)), o valor ainda está dentro dos limites do intervalo de sucesso (9 a 13). Ravik supera a desvantagem e desarma o mecanismo com sucesso!
+    - **Mestre**: *"Você desarma a armadilha cuidadosamente no escuro, mas sente que qualquer pequeno desvio teria sido fatal."*
 
 ---
 

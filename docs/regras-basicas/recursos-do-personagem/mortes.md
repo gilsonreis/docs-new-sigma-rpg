@@ -68,55 +68,55 @@ No **NewSigmaRPG**, a morte de um personagem não ocorre automaticamente ao atin
 #### **Como Funciona**
 
 1. **Estado de Agonia**:
-    - Quando um personagem atinge 0 PV, ele entra em agonia e não pode realizar ações.
-    - O personagem deve realizar um **Teste de Resiliência (Constituição)** em cada turno, até se estabilizar ou morrer.
-    - Cada personagem pode realizar **até 3 tentativas** para se recuperar.
+    - Quando um personagem é reduzido a **0 PV**, ele cai inconsciente e entra em **Agonia**. 
+    - **Sem PV Negativo**: No **NewSigmaRPG**, o PV não desce abaixo de zero. O estado de agonia é medido pelo acúmulo de sucessos ou falhas nos Testes de Resiliência.
+    - Em cada um de seus turnos, o personagem realiza um **Teste de Resiliência (Constituição)** para se apegar à vida.
 
 2. **Teste de Resiliência**:
-    - O jogador rola **2D8** e compara o resultado com o **atributo de Constituição** do personagem.
-    - **Intervalo de Sucesso**: \( Atributo ± 2 \).
+    - O jogador rola **2D8** puro e compara com a sua **Constituição** (intervalo base de **[CON - 2, CON + 2]**, expandido caso possua bônus relevante na perícia *Resistência*).
+
+3. **Regra de Dano Massivo (Morte Instantânea)**:
+    - Se um golpe reduzir o personagem a 0 PV e o dano restante excedente for igual ou superior ao seu valor de **Constituição**, o choque é letal e o personagem **morre imediatamente**, sem chance de entrar em agonia.
 
 ---
 
-#### **Resultados Possíveis**
+#### **Resultados do Teste de Agonia**
 
 1. **Acerto Crítico**:
-    - Ocorre quando a soma dos dados é **igual ao valor do atributo de Constituição**.
-    - **Efeito**: O personagem recupera **1D8 PV** e retorna consciente.
+    - A soma dos dados crava **exatamente no valor da Constituição**.
+    - **Efeito**: O personagem recupera **1D8 PV** imediatamente, desperta e pode agir no próximo turno!
 
 2. **Sucesso Normal**:
-    - Ocorre quando a soma dos dados está dentro do intervalo de sucesso.
-    - **Efeito**: O personagem estabiliza, para de perder PV, mas permanece inconsciente.
+    - A soma dos dados está dentro do intervalo de sucesso.
+    - **Efeito**: O personagem **estabiliza**! O sangramento cessa, ele sai do estado de agonia e não precisa rolar mais testes contra a morte. Permanece inconsciente com 0 PV até receber primeiros socorros (Medicina) ou completar um descanso.
 
 3. **Falha Normal**:
-    - Ocorre quando a soma dos dados está fora do intervalo de sucesso.
-    - **Efeito**: O personagem permanece em agonia e perde 1 PV por turno.
-    - O jogador pode tentar o Teste de Resiliência novamente, até o limite de **3 tentativas**.
+    - A soma dos dados está fora do intervalo de sucesso.
+    - **Efeito**: O personagem acumula **1 Falha**. Se acumular um total de **3 Falhas** antes de estabilizar, ele sucumbe aos ferimentos e **morre**.
 
 4. **Falha Crítica**:
-    - Ocorre quando a soma dos dados é **menor ou igual a 3**.
-    - **Efeito**: O personagem morre imediatamente.
+    - A soma dos dados é **menor ou igual a 3**.
+    - **Efeito**: Conta como **2 Falhas** imediatas (ou morte instantânea se o personagem já possuir uma falha anterior).
 
 ---
 
 #### **Exemplo**
 
 ##### **Cenário 1: Acerto Crítico**
-- **Personagem**: Jack Hammer (Constituição 10).
+- **Personagem**: Jack Hammer (Constituição 10, intervalo 8 a 12).
 - **Rolagem**: \(5 + 5 = 10\) (Acerto Crítico).
-- **Efeito**: Jack rola \(1D8 → 6\), recupera **6 PV** e retorna consciente.
+- **Efeito**: Jack rola \(1D8 → 6\), recupera **6 PV** e desperta no meio do combate.
 
 ##### **Cenário 2: Sucesso Normal**
-- **Personagem**: Kael (Constituição 8).
+- **Personagem**: Kael (Constituição 8, intervalo 6 a 10).
 - **Rolagem**: \(6 + 3 = 9\) (Sucesso Normal).
-- **Efeito**: Kael estabiliza, mas permanece inconsciente.
+- **Efeito**: Kael estabiliza seus sinais vitais e para de agonizar. Ele permanece inconsciente, seguro até o fim da batalha.
 
-##### **Cenário 3: Falha Normal e Crítica**
-- **Personagem**: Elyon (Constituição 12).
-- **Primeira Tentativa**: \(4 + 2 = 6\) (Falha Normal).
-    - Elyon permanece em agonia e perde 1 PV.
-- **Segunda Tentativa**: \(1 + 2 = 3\) (Falha Crítica).
-    - Elyon sucumbe aos ferimentos e morre.
+##### **Cenário 3: Falha Normal e Falha Crítica**
+- **Personagem**: Elyon (Constituição 12, intervalo 10 a 14).
+- **Primeira Tentativa**: \(4 + 2 = 6\) (Falha Normal → Acumula a 1ª Falha).
+- **Segunda Tentativa**: \(1 + 2 = 3\) (Falha Crítica → Conta como 2 Falhas adicionais, totalizando 3 Falhas).
+- **Resultado**: Elyon não resiste à gravidade dos ferimentos e morre.
 
 ---
 

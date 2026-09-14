@@ -21,7 +21,7 @@ Os **Pontos de Vida** representam a resistência física do personagem. Quando o
 ### **Mais Sobre Pontos de Vida**
 
 - Consulte [**Mortes e Agonia**](../../regras-basicas/recursos-do-personagem/mortes.md) para entender o que acontece ao atingir 0 PV.
-- Veja [**Mais Detalhes**](../pontos-vida-estamina.md#pontos-de-vida-pv) sobre a pontos de vida.
+- Veja [**Mais Detalhes**](../pontos-vida-estamina.md#pontos-de-vida-pv) sobre os pontos de vida.
 
 ---
 

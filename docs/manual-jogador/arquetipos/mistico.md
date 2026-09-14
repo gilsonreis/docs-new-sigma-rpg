@@ -10,14 +10,12 @@ O **Místico** é o arquétipo conectado ao sobrenatural, espiritual ou ao desco
 
 ---
 
-### **Perícias Relevantes**
-- **Criação**: Para desenvolver artefatos ou rituais.
-- **Decifrar**: Para compreender runas, símbolos ou linguagens místicas.
-- **Intuição**: Para prever eventos ou detectar ameaças invisíveis.
-- **Ocultismo**: Para interpretar sinais esotéricos, canalizar energias sobrenaturais e compreender fenômenos místicos.
-- **Percepção**: Para perceber e sentir energia ou seres sobrenaturais.
-- **Resistência**: Para resistir a domínio mental, físico ou espiritual.
-- **Sobrevivência**: Para lidar com ambientes hostis ou sobrenaturais.
+### **Perícias do Arquétipo**
+- **Pacote Vocacional Inicial**:
+    - **Ocultismo (+2)**: Conhecimento profundo sobre energias transcendentais e o sobrenatural.
+    - **Intuição (+1)**: Percepção sensorial apurada para intenções, auras e perigos ocultos.
+    - **Levantamento (-1)**: Fraqueza temática; dedicação à mente e espírito em vez de trabalho muscular bruto.
+- **Sugestões para os 3 Pontos Livres**: Decifrar, Criação, Resistência, Percepção.
 
 ---
 
@@ -42,7 +40,9 @@ O **Místico** pode se destacar em diferentes áreas:
 - **Nome**: Kaelion, o Guardião dos Segredos
     - **Inteligência**: 12
     - **Carisma**: 10
-    - **Perícias**: Decifrar +2, Intuição +1, Criação +1
+    - **Perícias**:
+        - *Pacote do Arquétipo*: Ocultismo +2, Intuição +1, Levantamento -1
+        - *Pontos Livres (3 pts)*: Decifrar +2 (2 pts), Criação +1 (1 pt)
     - **História**: Kaelion é um feiticeiro que protege conhecimentos antigos. Ele vaga por terras proibidas, equilibrando luz e trevas em sua jornada.
 
 ---

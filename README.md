@@ -8,7 +8,7 @@ O **NewSigmaRPG** foi projetado para ser um sistema leve e adaptável, perfeito 
 
 ### ✨ Destaques do Sistema
 
-- **Mecânica Baseada em D8**: A maioria das ações é resolvida rolando **2D8 + Atributo + Perícia**. Simples de somar, rápido de resolver.
+- **Mecânica Baseada em D8**: As ações são resolvidas rolando **2D8**, onde o sucesso depende da proximidade do resultado ao valor do atributo (intervalo base de -2 a +2), com perícias expandindo essa margem. Intuitivo, dinâmico e focado na narrativa.
 - **Narrativa em Primeiro Lugar**: Regras enxutas que priorizam a fluidez da história em vez de tabelas intermináveis.
 - **Sistema Agnóstico**: Funciona para Fantasia Medieval, Cyberpunk, Terror Sobrenatural, Faroeste ou Ficção Científica.
 - **6 Arquétipos Versáteis**:

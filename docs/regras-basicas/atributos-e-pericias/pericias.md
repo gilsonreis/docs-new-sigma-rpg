@@ -25,8 +25,9 @@ Perícias são especializações relacionadas aos atributos. Enquanto os atribut
             - **Exemplo**: Um personagem com **Destreza 10** e Furtividade -2 só terá sucesso se rolar **10** no teste.
 
 - **Adquirindo Perícias**:
-    - Durante a criação do personagem, as perícias relevantes ao arquétipo escolhido começam com **+1**.
-    - Novas perícias podem ser adquiridas ao subir de nível, sempre começando com **+1**.
+    - Durante a criação do personagem, o arquétipo concede um **pacote vocacional inicial**: **+2** em uma perícia principal, **+1** em uma perícia de apoio e **-1** em uma fraqueza temática clássica.
+    - Em seguida, o jogador recebe **3 pontos de perícia livres** para distribuir como desejar.
+    - Novas perícias podem ser adquiridas ou aprimoradas ao subir de nível.
 
 ---
 
@@ -86,7 +87,7 @@ Perícias são especializações relacionadas aos atributos. Enquanto os atribut
 
 ### **9. Escalada**
 - **Descrição**: A habilidade de subir em superfícies íngremes ou difíceis com segurança.
-- **Atributo Relativo**: **Destreza**, **Constituição**
+- **Atributo Relativo**: **Destreza**, **Força**, **Constituição**
 
 ---
 
@@ -179,3 +180,31 @@ Perícias são especializações relacionadas aos atributos. Enquanto os atribut
 - **Atributo Relativo**: **Inteligência**
 
 ---
+
+## **Perícias Customizadas por Ambientação**
+
+Na ficha de personagem existem **espaços em branco** especialmente reservados para que o Mestre e os jogadores possam definir **perícias específicas para o cenário** da campanha, caso desejem representar conhecimentos, técnicas ou tecnologias exclusivas daquele universo.
+
+Essas perícias funcionam exatamente sob as mesmas regras gerais: são vinculadas a um atributo principal e podem receber valores entre **-2 e +2**, expandindo ou contraindo o intervalo de sucesso nos testes da mesma maneira.
+
+Abaixo estão exemplos de perícias personalizadas que podem ser introduzidas conforme o gênero da aventura:
+
+### **Cenários Futuristas, Sci-Fi e Cyberpunk**
+- **Hackear** (*Inteligência*): Invasão de redes neurais, quebra de firewalls corporativos, reprogramação de drones e sabotagem de terminais digitais.
+- **Astro-Navegação** (*Inteligência*): Cálculo de rotas orbitais, saltos por dobras hiperespaciais e cartografia de setores estelares.
+- **Cibernética** (*Inteligência* ou *Destreza*): Instalação, calibração, reparo e overclock de implantes neurais, próteses cibernéticas e bioware.
+
+### **Fantasia Medieval, Espada e Feitiçaria**
+- **Arcanismo** (*Inteligência*): Identificação de artefatos encantados, decifração de runas antigas e compreensão das correntes mágicas planares.
+- **Alquimia / Herbalismo** (*Inteligência*): Coleta de reagentes exóticos, destilação de elixires, poções de cura e venenos naturais.
+- **Adestramento** (*Carisma* ou *Inteligência*): Doma, controle e comunicação com feras selvagens, montarias fantásticas e criaturas mágicas.
+
+### **Velho Oeste (Far West)**
+- **Saque Rápido** (*Destreza*): Velocidade no coldre em duelos de meio-dia e desarmamento rápido sob fogo cruzado.
+- **Rastreamento** (*Inteligência*): Identificação de pegadas no solo árido, leitura de trilhas de carruagens e vestígios de emboscadas no deserto.
+- **Jogatina** (*Carisma* ou *Destreza*): Domínio em jogos de cartas de saloon (pôquer, faro), leitura de blefes e prestidigitação com cartas e dados.
+
+### **Investigação Noir, Horror Vitoriano ou Cósmico**
+- **Ciência Forense** (*Inteligência*): Exame minucioso de cenas de crime, análise balística rudimentar e coleta de pistas químicas em necrotérios.
+- **Contatos do Submundo** (*Carisma*): Navegação por becos escuros, troca de informações com informantes e negociações com receptadores.
+- **Ocultismo Proibido** (*Inteligência* ou *Constituição*): Estudo de tomos blasfemos, compreensão de cultos arcanos e manutenção do foco mental diante de horrores cósmicos.

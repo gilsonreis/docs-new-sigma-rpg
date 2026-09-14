@@ -54,18 +54,34 @@ Os arquétipos principais do sistema são:
 
 ---
 
+### **Pacote Vocacional de Perícias do Arquétipo**
+Cada arquétipo concede automaticamente um **pacote vocacional inicial**:
+- **Perícia Principal (+2)**: Onde o arquétipo atinge maestria nata (bônus duplo).
+- **Perícia de Apoio (+1)**: Uma perícia complementar ao estilo do arquétipo.
+- **Fraqueza Temática (-1)**: O ponto cego clássico daquela vocação, enriquecendo o roleplay e o equilíbrio.
+
+| Arquétipo | Perícia Principal (+2) | Perícia de Apoio (+1) | Fraqueza Temática (-1) |
+|---|---|---|---|
+| **Combatente** | **Artes Marciais** (+2) | **Atletismo** (+1) | **Lábia** (-1) |
+| **Especialista** | **Decifrar** (+2)* | **Criação** (+1) | **Atletismo** (-1) |
+| **Explorador** | **Sobrevivência** (+2) | **Escalada** (+1) | **Negociação** (-1) |
+| **Astuto** | **Disfarce** (+2) | **Persuasão** (+1) | **Levantamento** (-1) |
+| **Místico** | **Ocultismo** (+2) | **Intuição** (+1) | **Levantamento** (-1) |
+| **Artista** | **Criação** (+2) | **Persuasão** (+1) | **Resistência** (-1) |
+
+*\*Em cenários futuristas/cyberpunk, o Especialista pode optar por Hackear (+2) como perícia customizada de ambientação.*
+
+---
+
 ### **Usando os Arquétipos na Criação de Personagens**
 1. **Escolha o Arquétipo**:
-    - Escolha o arquétipo que melhor se alinha à sua visão do personagem.
-
-2. **Defina os Atributos**:
-    - Priorize os atributos recomendados pelo arquétipo, mas adapte conforme a narrativa desejada.
-
-3. **Selecione as Perícias**:
-    - Comece com as perícias relevantes do arquétipo e distribua os pontos conforme preferir.
-
-4. **Personalize o Personagem**:
-    - Adicione elementos únicos, como histórias pessoais, motivações e características físicas ou psicológicas.
+    - Selecione o papel que melhor expressa o conceito do seu personagem.
+2. **Receba o Pacote Vocacional**:
+    - Anote na ficha o **+2**, o **+1** e o **-1** concedidos pelo arquétipo.
+3. **Distribua seus 3 Pontos Livres**:
+    - Além do pacote do arquétipo, você recebe **3 pontos livres** para distribuir em qualquer perícia da lista, inclusive aprimorando perícias do arquétipo (até o teto de +2) ou neutralizando a fraqueza de -1 se desejar.
+4. **Defina os Atributos e Detalhes**:
+    - Role os 5 atributos e a Sorte, e personalize o personagem com história e motivações únicas.
 
 ---
 

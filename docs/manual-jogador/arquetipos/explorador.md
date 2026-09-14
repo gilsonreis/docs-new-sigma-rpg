@@ -10,13 +10,12 @@ O **Explorador** é o mestre da sobrevivência, mobilidade e adaptação. Esse a
 
 ---
 
-### **Perícias Relevantes**
-- **Atletismo**: Para movimentos rápidos e feitos físicos impressionantes.
-- **Escalada**: Para superar terrenos íngremes e alcançar locais elevados.
-- **Natação**: Para atravessar rios e outros corpos d'água.
-- **Ocultismo**: Para identificar símbolos, armadilhas ou sinais antigos e entender fenômenos ligados a mitos, culturas antigas ou rituais escondidos.
-- **Pilotagem**: Para controlar veículos em terrenos difíceis ou desconhecidos, como jipes em selvas, barcos em rios turbulentos ou até mesmo naves em atmosferas instáveis.
-- **Sobrevivência**: Para encontrar recursos e navegar por terrenos hostis.
+### **Perícias do Arquétipo**
+- **Pacote Vocacional Inicial**:
+    - **Sobrevivência (+2)**: Domínio total de ambientes hostis, recursos naturais e rastreamento.
+    - **Escalada (+1)**: Destreza e resistência para superar obstáculos verticais.
+    - **Negociação (-1)**: Fraqueza temática; habituado à solidão dos ermos, desconfortável no regateio urbano.
+- **Sugestões para os 3 Pontos Livres**: Atletismo, Camuflagem, Mira, Percepção, Pilotagem.
 
 ---
 
@@ -41,7 +40,9 @@ O **Explorador** pode se especializar em diferentes áreas de atuação:
 - **Nome**: Arlen, o Rastreador Silencioso
     - **Destreza**: 11
     - **Constituição**: 10
-    - **Perícias**: Sobrevivência +2, Escalada +1, Atletismo +1
+    - **Perícias**:
+        - *Pacote do Arquétipo*: Sobrevivência +2, Escalada +1, Negociação -1
+        - *Pontos Livres (3 pts)*: Atletismo +1, Camuflagem +1, Mira +1
     - **História**: Um batedor lendário que cresceu em terras selvagens e agora oferece seus serviços a quem precisa de um guia confiável. Suas habilidades são tão afiadas quanto suas flechas.
 
 ---

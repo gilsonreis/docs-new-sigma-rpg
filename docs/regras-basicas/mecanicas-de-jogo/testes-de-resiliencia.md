@@ -14,9 +14,9 @@ As perícias no **NewSigmaRPG** também podem influenciar os Testes de Resiliên
         - **-1 ou -2** reduz o intervalo.
 
 2. **Exemplos de Perícias Relevantes**:
-    - **Alquimia**: Resistir a venenos ou substâncias químicas.
+    - **Resistência**: Suportar toxinas, venenos, fadiga extrema e substâncias nocivas.
     - **Intuição**: Resistir a manipulações ou enganos.
-    - **Medicina**: Resistir a doenças ou envenenamentos.
+    - **Medicina**: Resistir a doenças ou identificar e neutralizar venenos.
     - **Artes Marciais**: Usar técnicas de defesa contra ataques físicos.
     - **Sobrevivência**: Enfrentar condições extremas de fome, frio ou calor.
 

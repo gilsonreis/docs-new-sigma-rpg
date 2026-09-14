@@ -10,12 +10,12 @@ O **Artista** é o criador do grupo, usando sua arte e presença para inspirar a
 
 ---
 
-### **Perícias Relevantes**
-- **Criação** (INT): Para compor músicas, pintar, esculpir ou qualquer forma de arte.
-- **Lábia** (CAR): Para convencer ou enganar com charme artístico.
-- **Persuasão** (CAR): Para influenciar grupos e aliados.
-- **Disfarce** (CAR): Para transformar sua aparência e encenar papéis.
-- **Percepção** (INT ou DES): Para notar detalhes relevantes em apresentações ou reações do público.
+### **Perícias do Arquétipo**
+- **Pacote Vocacional Inicial**:
+    - **Criação (+2)**: Genialidade em compor, atuar, inventar e expressar arte com perfeição.
+    - **Persuasão (+1)**: Facilidade em comover multidões e cativar interlocutores.
+    - **Resistência (-1)**: Fraqueza temática; sensibilidade física aguçada e vulnerabilidade a desgaste físico brutal.
+- **Sugestões para os 3 Pontos Livres**: Lábia, Disfarce, Intuição, Percepção, Negociação.
 
 ---
 
@@ -40,7 +40,9 @@ O **Artista** pode se destacar em diferentes formas de expressão:
 - **Nome**: Tristan, o Poeta Errante
     - **Carisma**: 12
     - **Inteligência**: 10
-    - **Perícias**: Criação +2, Lábia +1, Persuasão +1
+    - **Perícias**:
+        - *Pacote do Arquétipo*: Criação +2, Persuasão +1, Resistência -1
+        - *Pontos Livres (3 pts)*: Lábia +1, Disfarce +1, Intuição +1
     - **História**: Tristan é um bardo errante, conhecido por suas baladas que inspiram exércitos e desmoralizam inimigos. Seu passado misterioso é tão cativante quanto suas canções.
 
 ---

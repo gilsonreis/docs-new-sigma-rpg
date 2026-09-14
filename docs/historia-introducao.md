@@ -55,17 +55,18 @@
 
 **Jack Hammer:** Eu corro para cima deles e tento derrubar o primeiro com um soco.
 
-**Mestre:** O primeiro guarda tem **Constituição 9** como atributo defensivo. Faça um teste de **Artes Marciais**. Você precisa tirar entre 7 e 11 para acertar, mas como você tem **+2 na perícia**, aumentando seu intervalo de acerto para **5 a 13**. Mas lembre-se, falhas críticas ocorrem ao rolar **3 ou menos**. *(Jack rola 2D8 e obtém 2. Falha crítica!)*
+**Mestre:** Faça um teste de **Artes Marciais** usando a sua **Força** (12). Seu intervalo base é de 10 a 14. Como você tem **+2 na perícia**, aumentando seu intervalo de acerto para **8 a 16**. Mas lembre-se, falhas críticas ocorrem ao rolar **3 ou menos**. *(Jack rola 2D8 e obtém 2. Falha crítica!)*
 
 **Mestre:** Enquanto você avança com confiança, o guarda dá um passo para o lado, e seu soco passa no ar. O impulso faz você perder o equilíbrio e cair no chão, deixando-o vulnerável ao contra-ataque do guarda.
 
-**Mestre:** O guarda tenta aproveitar sua posição vulnerável e atacar com um golpe de cassetete. Ele terá **vantagem** no ataque devido à sua posição superior. O atributo de **Constituição** de Jack é **10**, e o intervalo de acerto do guarda é **8 a 12**. *(O mestre rola 4D8 e obtém [1, 3, 4, 2]. Como é vantagem, ele escolhe os valores mais próximos do atributo de Jack, **4 + 3 = 7**, falha.)*
+
+**Mestre:** O guarda tenta aproveitar sua posição vulnerável e atacar com um golpe de cassetete. Ele terá **vantagem** no ataque devido à sua posição superior. O atributo de **Força** do guarda é **9**, então o intervalo de acerto dele é **7 a 11**. *(O mestre rola 4D8 e obtém [1, 2, 2, 3]. Como o atacante tem vantagem, escolhe os dois dados cuja soma mais se aproxima de 9, que resultam em **3 + 2 = 5**. Como 5 está fora do intervalo de 7 a 11, o ataque falha.)*
 
 **Mestre:** Apesar da vantagem, o guarda erra o golpe ao tentar acertar rapidamente, batendo o cassetete no chão próximo a você.
 
 **Riley:** Enquanto Jack luta, vou atirar no outro guarda, com minha pistola leve.
 
-**Mestre:** O segundo guarda tem **Constituição 8** como atributo defensivo. Faça um teste usando a perícia **Mira**. Você tem que tirar entre 6 e 10 para acertar, e você tem **+1 na perícia**, aumentando o intervalo de acerto para **5 a 11**. *(Riley rola 2D8 e obtém 8. Sucesso crítico!)*
+**Mestre:** Faça um teste usando a perícia **Mira** com o seu atributo de **Destreza** (11). Você tem que tirar entre 9 e 13 para acertar no alvo base, e como você tem **+1 na perícia**, ampliando o intervalo de acerto para **8 a 14**. *(Riley rola 2D8 e obtém 11. Sucesso crítico, cravou no atributo!)*
 
 **Mestre:** O disparo é certeiro e atinge um ponto vital no ombro do segundo guarda. Como você teve um sucesso crítico, o dano será **dobrado**. Vamos calcular:
 
@@ -77,7 +78,7 @@
 
 **Jack Hammer:** Aproveito o momento em que o outro guarda está distraído com o disparo de Riley para atacá-lo novamente.
 
-**Mestre:** Certo, o primeiro guarda ainda está em pé e atento após o erro anterior. Ele tem **Constituição 9** como atributo defensivo. Faça outro teste de **Artes Marciais**, com +2 na perícia, aumentando o intervalo de acerto para **5 a 13**. *(Jack rola 2D8 e obtém 12. Sucesso!)*
+**Mestre:** Certo, o primeiro guarda ainda está em pé e atento após o erro anterior. Faça outro teste de **Artes Marciais**, testando novamente contra sua **Força** (12), com +2 na perícia, resultando num intervalo de acerto de **8 a 16**. *(Jack rola 2D8 e obtém 12. Sucesso crítico!)*
 
 **Mestre:** Seu soco acerta o queixo do guarda com força suficiente para derrubá-lo. O guarda cai desacordado, batendo a cabeça no chão.
 

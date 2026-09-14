@@ -51,7 +51,7 @@ Escolha um dos seis arquétipos disponíveis no **NewSigmaRPG**:
 
 A especialidade define a identidade única do seu personagem dentro do arquétipo. Ela reflete suas habilidades, estilo de vida ou função específica na narrativa. Não há uma lista fixa de especialidades, incentivando sua criatividade.
 
-Leia mais na seção [**Escolhendo uma especidade**](../criando-personagem/introducao.md#escolhendo-uma-especialidade)
+Leia mais na seção [**Escolhendo uma especialidade**](../criando-personagem/introducao.md#escolhendo-uma-especialidade)
 
 ### **Exemplos de Especialidades por Arquétipo**
 

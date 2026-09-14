@@ -64,13 +64,13 @@ Os testes de ação são usados para determinar se um personagem consegue realiz
         - **Movimento**: Aproximar-se ou reposicionar no campo de batalha.
         - **Uma ação**: Atacar, usar um item, ativar uma habilidade.
 
-3. **Ataque e Defesa**:
-    - **Ataque**: Compare a rolagem com o atributo **Constituição** do inimigo.
-    - **Dano**: Determinado pela arma ou habilidade usada.
+3. **Ataque**:
+    - Compare a rolagem com o **seu próprio** atributo relevante (Ex: Força para corpo a corpo, Destreza para armas de fogo).
+    - **Dano**: Determinado pela arma ou habilidade usada após um ataque bem sucedido.
 
 4. **Exemplo de Combate**:
-    - Rex Ironfist ataca um robô. **Constituição do Robô**: 9 (intervalo de 7 a 11).
-    - Rolagem de Rex: \(6 + 5 = 11\), dentro do intervalo. Ataque bem-sucedido.
+    - Rex Ironfist ataca um robô com seu martelo. O ataque sendo físico usa a **Força** de Rex: 11 (intervalo de 9 a 13).
+    - Rolagem de Rex: \(6 + 5 = 11\). Está dentro do intervalo e coincidiu exatamente com seu atributo ativo. Acerto Crítico! Dano Dobrado.
 
 ---
 

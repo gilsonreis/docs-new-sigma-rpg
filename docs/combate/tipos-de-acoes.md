@@ -9,7 +9,7 @@ A ação principal é a ação mais significativa que o personagem pode realizar
 
 1. **Ataque**:
     - Realizar um ataque corpo a corpo ou à distância contra um alvo.
-    - A rolagem é comparada ao atributo relevante do inimigo, geralmente **Constituição** para ataques físicos.
+    - A rolagem é comparada ao atributo do **próprio atacante**, dependendo da natureza do golpe (ex: **Força** para corpo a corpo, **Destreza** para distância).
 
 2. **Usar um Item**:
     - Utilizar itens consumíveis, como poções ou munição.

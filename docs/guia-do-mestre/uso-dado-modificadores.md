@@ -7,7 +7,7 @@ No **NewSigmaRPG**, o dado de 8 faces (**D8**) é o centro de todas as rolagens 
 ### **1. Rolagem Básica**
 
 - A maioria das ações exige uma rolagem de **2D8**.
-- O resultado da soma dos dois dados é comparado ao **atributo relevante** ou ao intervalo de sucesso do oponente para determinar o resultado.
+- O resultado da soma dos dois dados é comparado ao **atributo relevante** do personagem que realiza a ação (ou ao seu intervalo de sucesso) para determinar o resultado.
 
 #### **Exemplo de Rolagem**:
 
